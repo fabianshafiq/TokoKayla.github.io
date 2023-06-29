@@ -1,0 +1,1475 @@
+<site version="3.0"><css/><components><Component type="3" id="g_image1" zorder="1" filename="image99046234" left="0" top="0" width="180" height="180" originwidth="500" originheight="500" src="C:\Users\PDS JAKARTA 2\Downloads\Pink Flower Illustration Logo.png" previewfile="C:\Users\PDS JAKARTA 2\Downloads\Pink Flower Illustration Logo.png" include="p98260515,p102446937,p104278109,p104286609,p113985593" thumbname="thumb122579531" resamplename="img122579546" exportfilename="images/Pink Flower Illustration Logo.png" fp="1" lp="1"/><Component type="13" id="g_rollimg1" zorder="23" filename="rollimg113562312" linkurl="page://p98260515" src="C:\Users\PDS JAKARTA 2\Documents\Home Black.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Home Black.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Home Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Home Pink.png" mouseoversound="" alt="" width="90" height="45" left="807" top="59" include="p98260515,p102446937,p104278109,p104286609,p113985593" lp="1" exportfilename="images/Home Black.png" exportfilename2="images/Home Pink.png" exportsound="" fp="1"/><Component type="13" id="g_rollimg2" zorder="24" filename="rollimg113603203" linkurl="page://p102446937" src="C:\Users\PDS JAKARTA 2\Documents\Shop Black.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Shop Black.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Shop Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Shop Pink.png" mouseoversound="" alt="" width="90" height="45" left="936" top="60" include="p98260515,p102446937,p104278109,p104286609,p113985593" lp="1" exportfilename="images/Shop Black.png" exportfilename2="images/Shop Pink.png" exportsound="" fp="1"/><Component type="13" id="g_rollimg3" zorder="25" filename="rollimg113678031" linkurl="page://p104278109" src="C:\Users\PDS JAKARTA 2\Documents\Contact Black.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Contact Black.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Contact Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Contact Pink.png" mouseoversound="" alt="" width="91" height="45" left="1077" top="59" include="p98260515,p102446937,p104278109,p104286609,p113985593" lp="1" exportfilename="images/Contact Black.png" exportfilename2="images/Contact Pink.png" exportsound="" fp="1"/><Component type="13" id="g_rollimg4" zorder="26" filename="rollimg113756546" linkurl="page://p104286609" src="C:\Users\PDS JAKARTA 2\Documents\FAQ Black.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ Black.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\FAQ Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ Pink.png" mouseoversound="" alt="" width="98" height="48" left="1223" top="59" include="p98260515,p102446937,p104278109,p104286609,p113985593" lp="1" exportfilename="images/FAQ Black.png" exportfilename2="images/FAQ Pink.png" exportsound="" fp="1"/></components><page id="p98260515" pageindex="0" name="Home Page" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="4" id="shape1" zorder="0" filename="shape98270000" width="1364" height="180" bgcolor="#FFFFFF" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shape4DOJQ.gif" left="0" top="0" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" global="" exportfilename="images/shape98270000.gif" lp="1"/><Component id="g_image1" zorder="1" global="1"/><Component type="3" id="image2" zorder="2" filename="image100219328" left="-3" top="150" width="1376" height="323" originwidth="1920" originheight="450" src="C:\Users\PDS JAKARTA 2\Downloads\FC_INDO_Skinnybanner_WEB_No_Text.png.png" previewfile="C:\Users\PDS JAKARTA 2\Downloads\FC_INDO_Skinnybanner_WEB_No_Text.png.png" thumbname="thumb122579578" resamplename="img122579593" exportfilename="images/FC_INDO_Skinnybanner_WEB_No_Text.png.png" fp="1" lp="1"/><Component type="2" id="text5" zorder="3" filename="text100553062" width="454" height="135" html="" left="17" top="246" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;Welcome to Kayla Florist, where beauty blossoms. Discover our exquisite collection of floral masterpieces crafted with passion and care. From vibrant bouquets to elegant arrangements, we invite you to experience the enchantment of our floral creations and let us bring joy and elegance to your special moments.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;Welcome to Kayla Florist, where beauty blossoms. Discover our exquisite collection of floral masterpieces crafted with passion and care. From vibrant bouquets to elegant arrangements, we invite you to experience the enchantment of our floral creations and let us bring joy and elegance to your special moments.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSA0IDAgMCAwDQpXZWxjb21lIHRvIEtheWxhIEZsb3Jp
+c3QsIHdoZXJlIGJlYXV0eSBibG9zc29tcy4gRGlzY292ZXIgb3VyIGV4cXVpc2l0ZSBjb2xsZWN0
+aW9uIG9mIGZsb3JhbCBtYXN0ZXJwaWVjZXMgY3JhZnRlZCB3aXRoIHBhc3Npb24gYW5kIGNhcmUu
+IEZyb20gdmlicmFudCBib3VxdWV0cyB0byBlbGVnYW50IGFycmFuZ2VtZW50cywgd2UgaW52aXRl
+IHlvdSB0byBleHBlcmllbmNlIHRoZSBlbmNoYW50bWVudCBvZiBvdXIgZmxvcmFsIGNyZWF0aW9u
+cyBhbmQgbGV0IHVzIGJyaW5nIGpveSBhbmQgZWxlZ2FuY2UgdG8geW91ciBzcGVjaWFsIG1vbWVu
+dHMuDQo=
+</rvf></Component><Component type="4" id="shape2" zorder="4" filename="shape100794453" width="1370" height="283" bgcolor="#FBD7CF" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeI44VM.gif" left="2" top="574" fillstyle="0" fp="1" exportfilename="images/shape100794453.gif" lp="1"/><Component type="2" id="text6" zorder="5" filename="text100906546" width="1373" height="90" html="" left="0" top="480" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Poppins" style="font-size:48px;"&gt;WHY CHOICE KAYLA FLORIST ?&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Poppins" class="ws36"&gt;WHY CHOICE KAYLA FLORIST ?&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCJAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+AgAAAA4AMyAxIDEgMCAwIDANCldIWSBDSE9JQ0UgS0FZTEEgRkxPUklTVCA/DQo=
+</rvf></Component><Component type="2" id="text7" zorder="6" filename="text101082546" width="361" height="182" html="" left="11" top="637" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;&lt;B&gt;Genuine Love for Flowers&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;At Kayla Flortist, we are not just ordinary flower sellers. We are true flower enthusiasts with a deep love for the beauty and hidden meanings behind each petal. Every floral arrangement we create is a result of our unwavering dedication to the art of flowers.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Poppins" class="ws11"&gt;&lt;B&gt;Genuine Love for Flowers&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;At Kayla Flortist, we are not just ordinary flower sellers. We are true flower enthusiasts with a deep love for the beauty and hidden meanings behind each petal. Every floral arrangement we create is a result of our unwavering dedication to the art of flowers.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQovAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwVTdHlsZQsGZnNCb2xkAAAALTkgMiAw
+IDAgMiAwIDINCnJ2cw0KUAEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFk
+T25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0
+eWxlTmFtZQYKTGVmdCBBbGlnbghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlv
+bnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAxIDAgMCAwDQpHZW51
+aW5lIExvdmUgZm9yIEZsb3dlcnMNCjMgMSA0IDAgMCAwDQpBdCBLYXlsYSBGbG9ydGlzdCwgd2Ug
+YXJlIG5vdCBqdXN0IG9yZGluYXJ5IGZsb3dlciBzZWxsZXJzLiBXZSBhcmUgdHJ1ZSBmbG93ZXIg
+ZW50aHVzaWFzdHMgd2l0aCBhIGRlZXAgbG92ZSBmb3IgdGhlIGJlYXV0eSBhbmQgaGlkZGVuIG1l
+YW5pbmdzIGJlaGluZCBlYWNoIHBldGFsLiBFdmVyeSBmbG9yYWwgYXJyYW5nZW1lbnQgd2UgY3Jl
+YXRlIGlzIGEgcmVzdWx0IG9mIG91ciB1bndhdmVyaW5nIGRlZGljYXRpb24gdG8gdGhlIGFydCBv
+ZiBmbG93ZXJzLg0K
+</rvf></Component><Component type="2" id="text8" zorder="7" filename="text101189250" width="361" height="182" html="" left="494" top="628" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;&lt;B&gt;Unquestionable Quality&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;We prioritize the quality of the flowers we offer. Each bloom is carefully selected from our lush gardens and trusted flower farmers. We ensure that the flowers you purchase from Kayla Flowrtist are fresh, stunning, and long-lasting.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Poppins" class="ws11"&gt;&lt;B&gt;Unquestionable Quality&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;We prioritize the quality of the flowers we offer. Each bloom is carefully selected from our lush gardens and trusted flower farmers. We ensure that the flowers you purchase from Kayla Flowrtist are fresh, stunning, and long-lasting.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQovAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwVTdHlsZQsGZnNCb2xkAAAALTkgMiAw
+IDAgMiAwIDINCnJ2cw0KUAEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFk
+T25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0
+eWxlTmFtZQYKTGVmdCBBbGlnbghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlv
+bnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAxIDAgMCAwDQpVbnF1
+ZXN0aW9uYWJsZSBRdWFsaXR5DQozIDEgNCAwIDAgMA0KV2UgcHJpb3JpdGl6ZSB0aGUgcXVhbGl0
+eSBvZiB0aGUgZmxvd2VycyB3ZSBvZmZlci4gRWFjaCBibG9vbSBpcyBjYXJlZnVsbHkgc2VsZWN0
+ZWQgZnJvbSBvdXIgbHVzaCBnYXJkZW5zIGFuZCB0cnVzdGVkIGZsb3dlciBmYXJtZXJzLiBXZSBl
+bnN1cmUgdGhhdCB0aGUgZmxvd2VycyB5b3UgcHVyY2hhc2UgZnJvbSBLYXlsYSBGbG93cnRpc3Qg
+YXJlIGZyZXNoLCBzdHVubmluZywgYW5kIGxvbmctbGFzdGluZy4NCg==
+</rvf></Component><Component type="2" id="text9" zorder="8" filename="text101343265" width="381" height="195" html="" left="956" top="618" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;&lt;B&gt;Exceptional Service Experince&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;We understand that buying flowers is about delivering an exceptional experience. Our attentive and friendly team is ready to assist you in selecting the perfect flowers and providing expert advice. We are committed to delivering the best service, from the moment you step into our store until our beautiful blooms arrive in your hands.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Poppins" class="ws11"&gt;&lt;B&gt;Exceptional Service Experince&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;We understand that buying flowers is about delivering an exceptional experience. Our attentive and friendly team is ready to assist you in selecting the perfect flowers and providing expert advice. We are committed to delivering the best service, from the moment you step into our store until our beautiful blooms arrive in your hands.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQovAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwVTdHlsZQsGZnNCb2xkAAAALTkgMiAw
+IDAgMiAwIDINCnJ2cw0KUAEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFk
+T25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0
+eWxlTmFtZQYKTGVmdCBBbGlnbghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlv
+bnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAxIDAgMCAwDQpFeGNl
+cHRpb25hbCBTZXJ2aWNlIEV4cGVyaW5jZQ0KMyAxIDQgMCAwIDANCldlIHVuZGVyc3RhbmQgdGhh
+dCBidXlpbmcgZmxvd2VycyBpcyBhYm91dCBkZWxpdmVyaW5nIGFuIGV4Y2VwdGlvbmFsIGV4cGVy
+aWVuY2UuIE91ciBhdHRlbnRpdmUgYW5kIGZyaWVuZGx5IHRlYW0gaXMgcmVhZHkgdG8gYXNzaXN0
+IHlvdSBpbiBzZWxlY3RpbmcgdGhlIHBlcmZlY3QgZmxvd2VycyBhbmQgcHJvdmlkaW5nIGV4cGVy
+dCBhZHZpY2UuIFdlIGFyZSBjb21taXR0ZWQgdG8gZGVsaXZlcmluZyB0aGUgYmVzdCBzZXJ2aWNl
+LCBmcm9tIHRoZSBtb21lbnQgeW91IHN0ZXAgaW50byBvdXIgc3RvcmUgdW50aWwgb3VyIGJlYXV0
+aWZ1bCBibG9vbXMgYXJyaXZlIGluIHlvdXIgaGFuZHMuDQo=
+</rvf></Component><Component type="13" id="rollimg1" zorder="9" filename="rollimg103160578" linkurl="page://p102446937" src="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" mouseoversound="" alt="" width="294" height="139" left="537" top="881" lp="1" exportfilename="images/Buy Now Pink.png" exportfilename2="images/Buy Now Black.png" exportsound="" fp="1"/><Component id="g_rollimg1" zorder="10" global="1"/><Component id="g_rollimg2" zorder="11" global="1"/><Component id="g_rollimg3" zorder="12" global="1"/><Component id="g_rollimg4" zorder="13" global="1"/><Component type="4" id="shape3" zorder="14" filename="shape116985171" width="1373" height="219" bgcolor="#000000" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeQ66MD.gif" left="0" top="1053" fillstyle="0" fp="1" global="" exportfilename="images/shape116985171.gif" lp="1"/><Component type="2" id="text1" zorder="15" filename="text117334718" width="162" height="28" html="" left="99" top="1066" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkluZm9ybWF0
+aW9ucw0K
+</rvf></Component><Component type="13" id="rollimg2" zorder="16" filename="rollimg117436578" linkurl="" linktype="" linktitle="" src="C:\Users\PDS JAKARTA 2\Documents\About US White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\About US White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" mouseoversound="" alt="" width="100" height="29" left="97" top="1118" exportfilename="images/About US White.png" exportfilename2="images/About US Pink.png" exportsound="" fp="1" lp="1"/><Component type="13" id="rollimg3" zorder="17" filename="rollimg117500515" linkurl="page://p104286609" src="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" mouseoversound="" alt="" width="42" height="29" left="97" top="1155" lp="1" exportfilename="images/FAQ WHITE FOOTER.png" exportfilename2="images/FAQ PINK FOOTER.png" exportsound="" fp="1"/><Component type="13" id="rollimg4" zorder="18" filename="rollimg117545125" linkurl="page://p113985593" src="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" mouseoversound="" alt="" width="150" height="32" left="90" top="1194" lp="1" exportfilename="images/Terms White.png" exportfilename2="images/Terms Pink.png" exportsound="" fp="1"/><Component type="2" id="text2" zorder="19" filename="text117575218" width="162" height="28" html="" left="396" top="1064" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkN1c3RvbWVy
+IFNlcnZpY2UNCg==
+</rvf></Component><Component type="13" id="rollimg5" zorder="20" filename="rollimg117640640" linkurl="page://p104278109" src="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" mouseoversound="" alt="" width="69" height="34" left="391" top="1110" lp="1" exportfilename="images/Contact White Footer.png" exportfilename2="images/Contact Pink Footer.png" exportsound="" fp="1"/><Component type="2" id="text3" zorder="21" filename="text117680171" width="162" height="28" html="" left="647" top="1063" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvbnRhY3Qg
+VVMNCg==
+</rvf></Component><Component type="13" id="rollimg6" zorder="22" filename="rollimg117751250" linkurl="http://wa.me/628990682073" src="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" mouseoversound="" alt="" width="181" height="32" left="641" top="1112" lp="1" exportfilename="images/PhoneNum White.png" exportfilename2="images/PhoneNum Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg7" zorder="23" filename="rollimg117784312" linkurl="mailto:sekarajengkay@gmail.com" src="C:\Users\PDS JAKARTA 2\Documents\Email White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Email White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" mouseoversound="" alt="" width="216" height="29" left="643" top="1152" lp="1" exportfilename="images/Email White.png" exportfilename2="images/Email Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg8" zorder="24" filename="rollimg117828515" linkurl="https://instagram.com/sekaylla?igshid=NTc4MTIwNjQ2YQ==" src="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" mouseoversound="" alt="" width="182" height="32" left="633" top="1190" lp="1" exportfilename="images/Instagram White.png" exportfilename2="images/Instagram Pink.png" exportsound="" fp="1"/><Component type="2" id="text4" zorder="25" filename="text118035500" width="181" height="63" html="" left="14" top="182" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:48px;"&gt;&lt;B&gt;HELLO !&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws36"&gt;&lt;B&gt;HELLO !&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCJAVTdHlsZQsGZnNCb2xkAAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkhFTExPICENCg==
+</rvf></Component><Component type="4" id="shape4" zorder="26" filename="shape118092171" width="1374" height="26" bgcolor="#C0C0C0" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shape7EAG8.gif" left="0" top="1269" fp="1" exportfilename="images/shape118092171.gif" lp="1"/><Component type="2" id="text10" zorder="27" filename="text118148562" width="237" height="18" html="" left="2" top="1274" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:11px;"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws8"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCAVTdHlsZQsGZnNCb2xkAAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvcHlyaWdodCAyMDIzIKkgS2F5bGEg
+RmxvcmlzdA0K
+</rvf></Component></body></page><page id="p102446937" pageindex="1" name="Shoping Page" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_image1" zorder="0" global="1"/><Component id="g_rollimg4" zorder="1" global="1"/><Component id="g_rollimg3" zorder="2" global="1"/><Component id="g_rollimg2" zorder="3" global="1"/><Component id="g_rollimg1" zorder="4" global="1"/><Component type="4" id="shape1" zorder="5" filename="shape114188453" width="1299" height="271" bgcolor="#FFFFFF" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shape9SDQN.gif" left="0" top="150" fillstyle="0" fp="1" exportfilename="images/shape114188453.gif" lp="1"/><Component type="4" id="shape2" zorder="6" filename="shape114330015" width="1370" height="2158" bgcolor="#FBD7CF" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shape4FNTB.gif" left="1" top="163" fillstyle="0" fp="1" exportfilename="images/shape114330015.gif" lp="1"/><Component type="2" id="text1" zorder="7" filename="text114431921" width="483" height="90" html="" left="521" top="182" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:64px;"&gt;&lt;B&gt;WE PRODUCT&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws48"&gt;&lt;B&gt;WE PRODUCT&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCMAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCldFIFBST0RV
+Q1QNCg==
+</rvf></Component><Component type="3" id="image1" zorder="8" filename="image114923718" left="131" top="340" width="366" height="366" originwidth="493" originheight="493" src="C:\Users\PDS JAKARTA 2\Downloads\0620-OneInAMillion-Thumbnail-01_493x.png" previewfile="C:\Users\PDS JAKARTA 2\Downloads\0620-OneInAMillion-Thumbnail-01_493x.png" thumbname="thumb122581343" resamplename="img122581359" exportfilename="images/0620-OneInAMillion-Thumbnail-01_493x.png" fp="1" lp="1"/><Component type="4" id="shape3" zorder="9" filename="shape114998125" width="629" height="367" bgcolor="#FAFAFA" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeT6HHN.gif" left="493" top="340" fillstyle="0" fp="1" exportfilename="images/shape114998125.gif" lp="1"/><Component type="2" id="text2" zorder="10" filename="text115076609" width="423" height="42" html="" left="499" top="351" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" style="font-size:35px;"&gt;&lt;B&gt;One In A Million&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" class="ws26"&gt;&lt;B&gt;One In A Million&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCGgVTdHlsZQsGZnNCb2xkAAVDb2xvcgT7188A
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KT25lIEluIEEgTWls
+bGlvbg0K
+</rvf></Component><Component type="2" id="text3" zorder="11" filename="text115323890" width="184" height="32" html="" left="500" top="406" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:21px;"&gt;- Vase Flowers&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws16"&gt;- Vase Flowers&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCEAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+AgAAAA4AMyAxIDAgMCAwIDANCi0gVmFzZSBGbG93ZXJzDQo=
+</rvf></Component><Component type="2" id="text4" zorder="12" filename="text115392328" width="607" height="149" html="" left="500" top="452" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Segoe UI Semilight" style="font-size:19px;"&gt;All kinds of beauty are in this world, but for me, you are the only one - a white rose surrounded by 49 red roses is the perfect way to express how unique and meaningful a person is. One of the best gestures to wish you a happy birthday or anniversary for your loved ones.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Segoe UI Semilight" class="ws14"&gt;All kinds of beauty are in this world, but for me, you are the only one - a white rose surrounded by 49 red roses is the perfect way to express how unique and meaningful a person is. One of the best gestures to wish you a happy birthday or anniversary for your loved ones.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrvAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhJTZWdvZSBVSSBTZW1pbGlnaHQEU2l6ZQIOAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQpQAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2
+cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgpMZWZ0IEFsaWduCFN0YW5kYXJkCAlBbGlnbm1lbnQHCnJ2YUp1c3RpZnkHT3B0aW9ucwsABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDQgMCAwIDANCkFsbCBraW5kcyBv
+ZiBiZWF1dHkgYXJlIGluIHRoaXMgd29ybGQsIGJ1dCBmb3IgbWUsIHlvdSBhcmUgdGhlIG9ubHkg
+b25lIC0gYSB3aGl0ZSByb3NlIHN1cnJvdW5kZWQgYnkgNDkgcmVkIHJvc2VzIGlzIHRoZSBwZXJm
+ZWN0IHdheSB0byBleHByZXNzIGhvdyB1bmlxdWUgYW5kIG1lYW5pbmdmdWwgYSBwZXJzb24gaXMu
+IE9uZSBvZiB0aGUgYmVzdCBnZXN0dXJlcyB0byB3aXNoIHlvdSBhIGhhcHB5IGJpcnRoZGF5IG9y
+IGFubml2ZXJzYXJ5IGZvciB5b3VyIGxvdmVkIG9uZXMuDQo=
+</rvf></Component><Component type="13" id="rollimg2" zorder="13" filename="rollimg115635390" linkurl="http://wa.me/6285240816768?text=Hi%20i%20want%20to%20buy%20One%20In%20A%20Million" src="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" mouseoversound="" alt="" width="146" height="69" left="508" top="571" lp="1" exportfilename="images/Buy Now Pink.png" exportfilename2="images/Buy Now Black.png" exportsound="" fp="1"/><Component type="3" id="image2" zorder="14" filename="image115805218" left="123" top="830" width="366" height="366" originwidth="493" originheight="493" src="C:\Users\PDS JAKARTA 2\Downloads\STAND-FLOWERS.png" previewfile="C:\Users\PDS JAKARTA 2\Downloads\STAND-FLOWERS.png" thumbname="thumb122581390" resamplename="img122581421" exportfilename="images/STAND-FLOWERS.png" fp="1" lp="1"/><Component type="4" id="shape4" zorder="15" filename="shape115836562" width="629" height="367" bgcolor="#FAFAFA" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeTMTRR.gif" left="485" top="830" fillstyle="0" fp="1" exportfilename="images/shape115836562.gif" lp="1"/><Component type="2" id="text5" zorder="16" filename="text115848250" width="423" height="42" html="" left="495" top="849" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" style="font-size:35px;"&gt;&lt;B&gt;Tribute&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" class="ws26"&gt;&lt;B&gt;Tribute&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCGgVTdHlsZQsGZnNCb2xkAAVDb2xvcgT7188A
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVHJpYnV0ZQ0K
+</rvf></Component><Component type="2" id="text6" zorder="17" filename="text115924015" width="613" height="90" html="" left="494" top="947" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Segoe UI Semilight" style="font-size:19px;"&gt;A wonderful condolence stand for funeral services. Lush flowers, compiled in an extraordinary style make this arrangement one of our bestsellers.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Segoe UI Semilight" class="ws14"&gt;A wonderful condolence stand for funeral services. Lush flowers, compiled in an extraordinary style make this arrangement one of our bestsellers.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrvAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhJTZWdvZSBVSSBTZW1pbGlnaHQEU2l6ZQIOAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2
+cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAy
+IDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQSB3b25kZXJmdWwgY29uZG9sZW5jZSBzdGFu
+ZCBmb3IgZnVuZXJhbCBzZXJ2aWNlcy4gTHVzaCBmbG93ZXJzLCBjb21waWxlZCBpbiBhbiBleHRy
+YW9yZGluYXJ5IHN0eWxlIG1ha2UgdGhpcyBhcnJhbmdlbWVudCBvbmUgb2Ygb3VyIGJlc3RzZWxs
+ZXJzLg0K
+</rvf></Component><Component type="2" id="text7" zorder="18" filename="text115971062" width="184" height="32" html="" left="494" top="902" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:21px;"&gt;- Stand Flowers&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws16"&gt;- Stand Flowers&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCEAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+AgAAAA4AMyAxIDAgMCAwIDANCi0gU3RhbmQgRmxvd2Vycw0K
+</rvf></Component><Component type="13" id="rollimg1" zorder="19" filename="rollimg116007156" linkurl="http://wa.me/6285240816768?text=Hi%20i%20want%20to%20buy%20Tribute" src="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" mouseoversound="" alt="" width="146" height="69" left="489" top="1043" lp="1" exportfilename="images/Buy Now Pink.png" exportfilename2="images/Buy Now Black.png" exportsound="" fp="1"/><Component type="3" id="image3" zorder="20" filename="image116085968" left="118" top="1295" width="369" height="369" originwidth="493" originheight="493" src="C:\Users\PDS JAKARTA 2\Downloads\BUCKET-BUNGA.png" previewfile="C:\Users\PDS JAKARTA 2\Downloads\BUCKET-BUNGA.png" thumbname="thumb122581453" resamplename="img122581468" exportfilename="images/BUCKET-BUNGA.png" fp="1" lp="1"/><Component type="4" id="shape5" zorder="21" filename="shape116112062" width="629" height="367" bgcolor="#FAFAFA" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeDD03K.gif" left="487" top="1296" fillstyle="0" exportfilename="images/shape116112062.gif" fp="1" lp="1"/><Component type="2" id="text8" zorder="22" filename="text116153562" width="423" height="42" html="" left="490" top="1317" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" style="font-size:35px;"&gt;&lt;B&gt;Hot Romance&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" class="ws26"&gt;&lt;B&gt;Hot Romance&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCGgVTdHlsZQsGZnNCb2xkAAVDb2xvcgT7188A
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KSG90IFJvbWFuY2UN
+Cg==
+</rvf></Component><Component type="2" id="text9" zorder="23" filename="text116216953" width="184" height="32" html="" left="492" top="1376" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:21px;"&gt;- Bucket Flowers&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws16"&gt;- Bucket Flowers&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCEAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+AgAAAA4AMyAxIDAgMCAwIDANCi0gQnVja2V0IEZsb3dlcnMNCg==
+</rvf></Component><Component type="2" id="text10" zorder="24" filename="text116237984" width="613" height="136" html="" left="487" top="1424" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Segoe UI Semilight" style="font-size:19px;"&gt;A bouquet of red roses accompanied by white statice. A bouquet wrapped to perfection and suitable for any occasions as red roses simply symbolizes your passion, true love and desire while leaving the white statice to portray your utmost sincerity. This is the go-to gift that expresses your love and intentions without having to say a word.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Segoe UI Semilight" class="ws14"&gt;A bouquet of red roses accompanied by white statice. A bouquet wrapped to perfection and suitable for any occasions as red roses simply symbolizes your passion, true love and desire while leaving the white statice to portray your utmost sincerity. This is the go-to gift that expresses your love and intentions without having to say a word.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrvAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhJTZWdvZSBVSSBTZW1pbGlnaHQEU2l6ZQIOAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQpQAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2
+cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgpMZWZ0IEFsaWduCFN0YW5kYXJkCAlBbGlnbm1lbnQHCnJ2YUp1c3RpZnkHT3B0aW9ucwsABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDQgMCAwIDANCkEgYm91cXVldCBv
+ZiByZWQgcm9zZXMgYWNjb21wYW5pZWQgYnkgd2hpdGUgc3RhdGljZS4gQSBib3VxdWV0IHdyYXBw
+ZWQgdG8gcGVyZmVjdGlvbiBhbmQgc3VpdGFibGUgZm9yIGFueSBvY2Nhc2lvbnMgYXMgcmVkIHJv
+c2VzIHNpbXBseSBzeW1ib2xpemVzIHlvdXIgcGFzc2lvbiwgdHJ1ZSBsb3ZlIGFuZCBkZXNpcmUg
+d2hpbGUgbGVhdmluZyB0aGUgd2hpdGUgc3RhdGljZSB0byBwb3J0cmF5IHlvdXIgdXRtb3N0IHNp
+bmNlcml0eS4gVGhpcyBpcyB0aGUgZ28tdG8gZ2lmdCB0aGF0IGV4cHJlc3NlcyB5b3VyIGxvdmUg
+YW5kIGludGVudGlvbnMgd2l0aG91dCBoYXZpbmcgdG8gc2F5IGEgd29yZC4NCg==
+</rvf></Component><Component type="13" id="rollimg3" zorder="25" filename="rollimg116271578" linkurl="http://wa.me/6285240816768?text=Hi%20i%20want%20to%20buy%20Hot Romance" src="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" mouseoversound="" alt="" width="146" height="69" left="488" top="1569" lp="1" exportfilename="images/Buy Now Pink.png" exportfilename2="images/Buy Now Black.png" exportsound="" fp="1"/><Component type="3" id="image4" zorder="26" filename="image116505734" left="125" top="1771" width="356" height="356" originwidth="493" originheight="493" src="C:\Users\PDS JAKARTA 2\Downloads\DSC_0011_812_493x.png" previewfile="C:\Users\PDS JAKARTA 2\Downloads\DSC_0011_812_493x.png" thumbname="thumb122581500" resamplename="img122581515" exportfilename="images/DSC_0011_812_493x.png" fp="1" lp="1"/><Component type="4" id="shape6" zorder="27" filename="shape116522562" width="638" height="357" bgcolor="#FAFAFA" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeBDAKP.gif" left="481" top="1771" fillstyle="0" fp="1" exportfilename="images/shape116522562.gif" lp="1"/><Component type="2" id="text11" zorder="28" filename="text116629328" width="423" height="42" html="" left="503" top="1797" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" style="font-size:35px;"&gt;&lt;B&gt;Sugar Plum&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" class="ws26"&gt;&lt;B&gt;Sugar Plum&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCGgVTdHlsZQsGZnNCb2xkAAVDb2xvcgT7188A
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KU3VnYXIgUGx1bQ0K
+</rvf></Component><Component type="2" id="text12" zorder="29" filename="text116648359" width="184" height="32" html="" left="503" top="1856" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:21px;"&gt;- Basket Flowers&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws16"&gt;- Basket Flowers&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCEAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+AgAAAA4AMyAxIDAgMCAwIDANCi0gQmFza2V0IEZsb3dlcnMNCg==
+</rvf></Component><Component type="2" id="text13" zorder="30" filename="text116659062" width="613" height="136" html="" left="494" top="1892" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Segoe UI Semilight" style="font-size:19px;"&gt;These vibrant red roses paired together with red carnation spray fit beautifully in our classic white basket will make anyone's day! This flower basket sends a loving message of thought and appreciation to your loved ones.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Segoe UI Semilight" class="ws14"&gt;These vibrant red roses paired together with red carnation spray fit beautifully in our classic white basket will make anyone's day! This flower basket sends a loving message of thought and appreciation to your loved ones.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrvAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhJTZWdvZSBVSSBTZW1pbGlnaHQEU2l6ZQIOAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQpQAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2
+cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgpMZWZ0IEFsaWduCFN0YW5kYXJkCAlBbGlnbm1lbnQHCnJ2YUp1c3RpZnkHT3B0aW9ucwsABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDQgMCAwIDANClRoZXNlIHZpYnJh
+bnQgcmVkIHJvc2VzIHBhaXJlZCB0b2dldGhlciB3aXRoIHJlZCBjYXJuYXRpb24gc3ByYXkgZml0
+IGJlYXV0aWZ1bGx5IGluIG91ciBjbGFzc2ljIHdoaXRlIGJhc2tldCB3aWxsIG1ha2UgYW55b25l
+J3MgZGF5ISBUaGlzIGZsb3dlciBiYXNrZXQgc2VuZHMgYSBsb3ZpbmcgbWVzc2FnZSBvZiB0aG91
+Z2h0IGFuZCBhcHByZWNpYXRpb24gdG8geW91ciBsb3ZlZCBvbmVzLg0K
+</rvf></Component><Component type="13" id="rollimg4" zorder="31" filename="rollimg116790937" linkurl="http://wa.me/6285240816768?text=Hi%20i%20want%20to%20buy%20Sugar%20Plum" src="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Pink.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Buy Now Black.png" mouseoversound="" alt="" width="146" height="69" left="500" top="2005" lp="1" exportfilename="images/Buy Now Pink.png" exportfilename2="images/Buy Now Black.png" exportsound="" fp="1"/><Component type="4" id="shape7" zorder="32" filename="shape118251593" width="1373" height="220" bgcolor="#000000" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeSR3TS.gif" left="-1" top="2318" fillstyle="0" fp="1" global="" exportfilename="images/shape118251593.gif" lp="1"/><Component type="2" id="text14" zorder="33" filename="text118251609" width="162" height="29" html="" left="99" top="2331" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkluZm9ybWF0
+aW9ucw0K
+</rvf></Component><Component type="13" id="rollimg5" zorder="34" filename="rollimg118251625" linkurl="" linktype="" linktitle="" src="C:\Users\PDS JAKARTA 2\Documents\About US White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\About US White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" mouseoversound="" alt="" width="100" height="30" left="97" top="2383" exportfilename="images/About US White.png" exportfilename2="images/About US Pink.png" exportsound="" fp="1" lp="1"/><Component type="13" id="rollimg6" zorder="35" filename="rollimg118251640" linkurl="page://p104286609" src="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" mouseoversound="" alt="" width="42" height="30" left="97" top="2420" lp="1" exportfilename="images/FAQ WHITE FOOTER.png" exportfilename2="images/FAQ PINK FOOTER.png" exportsound="" fp="1"/><Component type="13" id="rollimg7" zorder="36" filename="rollimg118251656" linkurl="page://p113985593" src="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" mouseoversound="" alt="" width="150" height="33" left="90" top="2459" lp="1" exportfilename="images/Terms White.png" exportfilename2="images/Terms Pink.png" exportsound="" fp="1"/><Component type="2" id="text15" zorder="37" filename="text118251656" width="162" height="29" html="" left="396" top="2329" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkN1c3RvbWVy
+IFNlcnZpY2UNCg==
+</rvf></Component><Component type="13" id="rollimg8" zorder="38" filename="rollimg118251671" linkurl="page://p104278109" src="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" mouseoversound="" alt="" width="69" height="35" left="391" top="2375" lp="1" exportfilename="images/Contact White Footer.png" exportfilename2="images/Contact Pink Footer.png" exportsound="" fp="1"/><Component type="2" id="text16" zorder="39" filename="text118251703" width="162" height="29" html="" left="649" top="2328" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvbnRhY3Qg
+VVMNCg==
+</rvf></Component><Component type="13" id="rollimg9" zorder="40" filename="rollimg118251718" linkurl="http://wa.me/628990682073" src="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" mouseoversound="" alt="" width="181" height="33" left="641" top="2377" lp="1" exportfilename="images/PhoneNum White.png" exportfilename2="images/PhoneNum Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg10" zorder="41" filename="rollimg118251718" linkurl="mailto:sekarajengkay@gmail.com" src="C:\Users\PDS JAKARTA 2\Documents\Email White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Email White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" mouseoversound="" alt="" width="216" height="30" left="643" top="2417" lp="1" exportfilename="images/Email White.png" exportfilename2="images/Email Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg11" zorder="42" filename="rollimg118251734" linkurl="https://instagram.com/sekaylla?igshid=NTc4MTIwNjQ2YQ==" src="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" mouseoversound="" alt="" width="182" height="33" left="633" top="2455" lp="1" exportfilename="images/Instagram White.png" exportfilename2="images/Instagram Pink.png" exportsound="" fp="1"/><Component type="4" id="shape8" zorder="43" filename="shape118251750" width="1374" height="27" bgcolor="#C0C0C0" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shape8O1BI.gif" left="0" top="2534" fp="1" exportfilename="images/shape118251750.gif" lp="1"/><Component type="2" id="text17" zorder="44" filename="text118251765" width="237" height="19" html="" left="2" top="2539" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:11px;"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws8"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCAVTdHlsZQsGZnNCb2xkAAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvcHlyaWdodCAyMDIzIKkgS2F5bGEg
+RmxvcmlzdA0K
+</rvf></Component></body></page><page id="p104278109" pageindex="2" name="Contact Page" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_image1" zorder="0" global="1"/><Component id="g_rollimg4" zorder="1" global="1"/><Component id="g_rollimg3" zorder="2" global="1"/><Component id="g_rollimg2" zorder="3" global="1"/><Component id="g_rollimg1" zorder="4" global="1"/><Component type="4" id="shape1" zorder="5" filename="shape118436671" width="1370" height="583" bgcolor="#FBD7CF" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeF8NH7.gif" left="2" top="162" fillstyle="0" fp="1" exportfilename="images/shape118436671.gif" lp="1"/><Component type="2" id="text1" zorder="6" filename="text118474453" width="670" height="90" html="" left="334" top="186" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:64px;"&gt;&lt;B&gt;HAVE A QUESTIONS ?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws48"&gt;&lt;B&gt;HAVE A QUESTIONS ?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCMAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkhBVkUgQSBR
+VUVTVElPTlMgPw0K
+</rvf></Component><Component type="2" id="text2" zorder="7" filename="text118847359" width="670" height="37" html="" left="335" top="262" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="16777215" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:27px;"&gt;&lt;B&gt;Click The Icon Button&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws20"&gt;&lt;B&gt;Click The Icon Button&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCkNsaWNrIFRo
+ZSBJY29uIEJ1dHRvbg0K
+</rvf></Component><Component type="3" id="image1" zorder="8" filename="image118942125" left="331" top="348" width="160" height="160" originwidth="512" originheight="512" src="C:\Users\PDS JAKARTA 2\Downloads\whatsapp_3670051.png" previewfile="C:\Users\PDS JAKARTA 2\Downloads\whatsapp_3670051.png" linkurl="http://wa.me/628990682073" lp="1" thumbname="thumb122581984" resamplename="img122582000" exportfilename="images/whatsapp_3670051.png" fp="1"/><Component type="3" id="image2" zorder="9" filename="image118958453" left="583" top="332" width="195" height="195" originwidth="512" originheight="512" src="C:\Users\PDS JAKARTA 2\Downloads\gmail_732200.png" previewfile="C:\Users\PDS JAKARTA 2\Downloads\gmail_732200.png" linkurl="mailto:sekarajengkay@gmail.com" lp="1" thumbname="thumb122582031" resamplename="img122582046" exportfilename="images/gmail_732200.png" fp="1"/><Component type="3" id="image3" zorder="10" filename="image118974734" left="875" top="346" width="167" height="167" originwidth="512" originheight="512" src="C:\Users\PDS JAKARTA 2\Downloads\instagram_2111463.png" previewfile="C:\Users\PDS JAKARTA 2\Downloads\instagram_2111463.png" linkurl="https://instagram.com/sekaylla?igshid=NTc4MTIwNjQ2YQ==" lp="1" thumbname="thumb122582078" resamplename="img122582093" exportfilename="images/instagram_2111463.png" fp="1"/><Component type="4" id="shape2" zorder="11" filename="shape119093562" width="1373" height="219" bgcolor="#000000" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeV5TJN.gif" left="0" top="744" fillstyle="0" fp="1" global="" exportfilename="images/shape119093562.gif" lp="1"/><Component type="2" id="text3" zorder="12" filename="text119093578" width="162" height="28" html="" left="99" top="756" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkluZm9ybWF0
+aW9ucw0K
+</rvf></Component><Component type="13" id="rollimg1" zorder="13" filename="rollimg119093593" linkurl="" linktype="" linktitle="" src="C:\Users\PDS JAKARTA 2\Documents\About US White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\About US White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" mouseoversound="" alt="" width="100" height="29" left="97" top="808" exportfilename="images/About US White.png" exportfilename2="images/About US Pink.png" exportsound="" fp="1" lp="1"/><Component type="13" id="rollimg2" zorder="14" filename="rollimg119093609" linkurl="page://p104286609" src="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" mouseoversound="" alt="" width="42" height="29" left="96" top="845" lp="1" exportfilename="images/FAQ WHITE FOOTER.png" exportfilename2="images/FAQ PINK FOOTER.png" exportsound="" fp="1"/><Component type="13" id="rollimg3" zorder="15" filename="rollimg119093625" linkurl="page://p113985593" src="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" mouseoversound="" alt="" width="150" height="32" left="90" top="883" lp="1" exportfilename="images/Terms White.png" exportfilename2="images/Terms Pink.png" exportsound="" fp="1"/><Component type="2" id="text4" zorder="16" filename="text119093640" width="162" height="28" html="" left="396" top="754" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkN1c3RvbWVy
+IFNlcnZpY2UNCg==
+</rvf></Component><Component type="13" id="rollimg4" zorder="17" filename="rollimg119093656" linkurl="page://p104278109" src="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" mouseoversound="" alt="" width="69" height="34" left="391" top="800" lp="1" exportfilename="images/Contact White Footer.png" exportfilename2="images/Contact Pink Footer.png" exportsound="" fp="1"/><Component type="2" id="text5" zorder="18" filename="text119093671" width="162" height="28" html="" left="649" top="753" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvbnRhY3Qg
+VVMNCg==
+</rvf></Component><Component type="13" id="rollimg5" zorder="19" filename="rollimg119093687" linkurl="http://wa.me/628990682073" src="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" mouseoversound="" alt="" width="181" height="32" left="641" top="802" lp="1" exportfilename="images/PhoneNum White.png" exportfilename2="images/PhoneNum Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg6" zorder="20" filename="rollimg119093703" linkurl="mailto:sekarajengkay@gmail.com" src="C:\Users\PDS JAKARTA 2\Documents\Email White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Email White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" mouseoversound="" alt="" width="216" height="29" left="643" top="842" lp="1" exportfilename="images/Email White.png" exportfilename2="images/Email Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg7" zorder="21" filename="rollimg119093718" linkurl="https://instagram.com/sekaylla?igshid=NTc4MTIwNjQ2YQ==" src="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" mouseoversound="" alt="" width="182" height="32" left="633" top="880" lp="1" exportfilename="images/Instagram White.png" exportfilename2="images/Instagram Pink.png" exportsound="" fp="1"/><Component type="4" id="shape3" zorder="22" filename="shape119093734" width="1374" height="26" bgcolor="#C0C0C0" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeSMNVJ.gif" left="0" top="959" fp="1" exportfilename="images/shape119093734.gif" lp="1"/><Component type="2" id="text6" zorder="23" filename="text119093750" width="237" height="18" html="" left="2" top="964" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:11px;"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws8"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCAVTdHlsZQsGZnNCb2xkAAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvcHlyaWdodCAyMDIzIKkgS2F5bGEg
+RmxvcmlzdA0K
+</rvf></Component></body></page><page id="p104286609" pageindex="3" name="FAQ Page" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_image1" zorder="0" global="1"/><Component id="g_rollimg4" zorder="1" global="1"/><Component id="g_rollimg3" zorder="2" global="1"/><Component id="g_rollimg2" zorder="3" global="1"/><Component id="g_rollimg1" zorder="4" global="1"/><Component type="4" id="shape1" zorder="5" filename="shape119380875" width="1370" height="120" bgcolor="#FBD7CF" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shape5CFN5.gif" left="2" top="162" fillstyle="0" fp="1" exportfilename="images/shape119380875.gif" lp="1"/><Component type="2" id="text1" zorder="6" filename="text119393984" width="670" height="90" html="" left="334" top="186" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:64px;"&gt;&lt;B&gt;HELP CENTER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws48"&gt;&lt;B&gt;HELP CENTER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCMAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCkhFTFAgQ0VO
+VEVSDQo=
+</rvf></Component><Component type="2" id="text2" zorder="7" filename="text119530437" width="226" height="45" html="" left="32" top="308" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" style="font-size:27px;"&gt;&lt;B&gt;How to order ?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" class="ws20"&gt;&lt;B&gt;How to order ?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgT7188A
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KSG93IHRvIG9yZGVy
+ID8NCg==
+</rvf></Component><Component type="9" id="hr1" zorder="8" filename="hr119567093" hrsize="2" width="1371" height="17" left="2" top="508" fp="1" lp="1"/><Component type="2" id="text3" zorder="9" filename="text120133578" width="705" height="159" html="" left="16" top="339" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;OL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li value=1&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;Discover your favorite bouquet, click on the "Buy Flowers" button;&lt;/font&gt;&lt;/li&gt;
+&lt;li value=2&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;You will then be directed to a direct message on WhatsApp with the seller; &lt;/font&gt;&lt;/li&gt;
+&lt;li value=3&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;After that, we will provide you with a flower ordering form; &lt;/font&gt;&lt;/li&gt;
+&lt;li value=4&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;Please fill out the form completely and clearly; &lt;/font&gt;&lt;/li&gt;
+&lt;li value=5&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;We will send you the bank account number or other payment methods; &lt;/font&gt;&lt;/li&gt;
+&lt;li value=6&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;Once the product is paid for, we will process the order within a maximum of 24 hours.&lt;/font&gt;&lt;/li&gt;
+&lt;/OL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;OL&gt;
+&lt;li value=1&gt;&lt;font face="Poppins" class="ws11"&gt;Discover your favorite bouquet, click on the "Buy Flowers" button;&lt;/font&gt;&lt;/li&gt;
+&lt;li value=2&gt;&lt;font face="Poppins" class="ws11"&gt;You will then be directed to a direct message on WhatsApp with the seller; &lt;/font&gt;&lt;/li&gt;
+&lt;li value=3&gt;&lt;font face="Poppins" class="ws11"&gt;After that, we will provide you with a flower ordering form; &lt;/font&gt;&lt;/li&gt;
+&lt;li value=4&gt;&lt;font face="Poppins" class="ws11"&gt;Please fill out the form completely and clearly; &lt;/font&gt;&lt;/li&gt;
+&lt;li value=5&gt;&lt;font face="Poppins" class="ws11"&gt;We will send you the bank account number or other payment methods; &lt;/font&gt;&lt;/li&gt;
+&lt;li value=6&gt;&lt;font face="Poppins" class="ws11"&gt;Once the product is paid for, we will process the order within a maximum of 24 hours.&lt;/font&gt;&lt;/li&gt;
+&lt;/OL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+pgAAAA4BCVN0eWxlTmFtZQYKTGlzdCBTdHlsZQhTdGFuZGFyZAgGTGV2ZWxzDgEITGlzdFR5cGUH
+DHJ2bHN0RGVjaW1hbApMZWZ0SW5kZW50AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCEAtG
+b250LkhlaWdodALxEEZvcm1hdFN0cmluZ0NvZGUGCjI1MzAzQTczMkUAAAVMc3RJRASya7h9AAAz
+IDEgMCAwIDAgMA0KDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KRGlzY292
+ZXIgeW91ciBmYXZvcml0ZSBib3VxdWV0LCBjbGljayBvbiB0aGUgIkJ1eSBGbG93ZXJzIiBidXR0
+b247DQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KWW91IHdpbGwgdGhlbiBi
+ZSBkaXJlY3RlZCB0byBhIGRpcmVjdCBtZXNzYWdlIG9uIFdoYXRzQXBwIHdpdGggdGhlIHNlbGxl
+cjsgDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KQWZ0ZXIgdGhhdCwgd2Ug
+d2lsbCBwcm92aWRlIHlvdSB3aXRoIGEgZmxvd2VyIG9yZGVyaW5nIGZvcm07IA0KLTExIDAgMCAw
+IDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANClBsZWFzZSBmaWxsIG91dCB0aGUgZm9ybSBjb21w
+bGV0ZWx5IGFuZCBjbGVhcmx5OyANCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAw
+DQpXZSB3aWxsIHNlbmQgeW91IHRoZSBiYW5rIGFjY291bnQgbnVtYmVyIG9yIG90aGVyIHBheW1l
+bnQgbWV0aG9kczsgDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KT25jZSB0
+aGUgcHJvZHVjdCBpcyBwYWlkIGZvciwgd2Ugd2lsbCBwcm9jZXNzIHRoZSBvcmRlciB3aXRoaW4g
+YSBtYXhpbXVtIG9mIDI0IGhvdXJzLg0K
+</rvf></Component><Component type="2" id="text4" zorder="10" filename="text120340000" width="592" height="45" html="" left="25" top="531" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" style="font-size:27px;"&gt;&lt;B&gt;What payment methods are accepted?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" class="ws20"&gt;&lt;B&gt;What payment methods are accepted?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgT7188A
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KV2hhdCBwYXltZW50
+IG1ldGhvZHMgYXJlIGFjY2VwdGVkPw0K
+</rvf></Component><Component type="2" id="text5" zorder="11" filename="text120433500" width="705" height="152" html="" left="29" top="580" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;We accept payment through credit or debit cards via BCA, OVO, ShopeePay, and Bank Transfer to accommodate your preferences. For bank transfers, we will process your order after receiving the payment proof. Please provide a screenshot of the payment proof to sekarajengkay@gmail.com along with the order number stated in the subject line (Monday - Sunday, 8:00 AM - 5:00 PM).&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;We accept payment through credit or debit cards via BCA, OVO, ShopeePay, and Bank Transfer to accommodate your preferences. For bank transfers, we will process your order after receiving the payment proof. Please provide a screenshot of the payment proof to sekarajengkay@gmail.com along with the order number stated in the subject line (Monday - Sunday, 8:00 AM - 5:00 PM).&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSA0IDAgMCAwDQpXZSBhY2NlcHQgcGF5bWVudCB0aHJv
+dWdoIGNyZWRpdCBvciBkZWJpdCBjYXJkcyB2aWEgQkNBLCBPVk8sIFNob3BlZVBheSwgYW5kIEJh
+bmsgVHJhbnNmZXIgdG8gYWNjb21tb2RhdGUgeW91ciBwcmVmZXJlbmNlcy4gRm9yIGJhbmsgdHJh
+bnNmZXJzLCB3ZSB3aWxsIHByb2Nlc3MgeW91ciBvcmRlciBhZnRlciByZWNlaXZpbmcgdGhlIHBh
+eW1lbnQgcHJvb2YuIFBsZWFzZSBwcm92aWRlIGEgc2NyZWVuc2hvdCBvZiB0aGUgcGF5bWVudCBw
+cm9vZiB0byBzZWthcmFqZW5na2F5QGdtYWlsLmNvbSBhbG9uZyB3aXRoIHRoZSBvcmRlciBudW1i
+ZXIgc3RhdGVkIGluIHRoZSBzdWJqZWN0IGxpbmUgKE1vbmRheSAtIFN1bmRheSwgODowMCBBTSAt
+IDU6MDAgUE0pLg0K
+</rvf></Component><Component type="9" id="hr2" zorder="12" filename="hr120565890" hrsize="2" width="1371" height="17" left="0" top="691" fp="1" lp="1"/><Component type="2" id="text6" zorder="13" filename="text120580468" width="592" height="45" html="" left="27" top="710" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" style="font-size:27px;"&gt;&lt;B&gt;How much the shipping costs?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" class="ws20"&gt;&lt;B&gt;How much the shipping costs?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgT7188A
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KSG93IG11Y2ggdGhl
+IHNoaXBwaW5nIGNvc3RzPw0K
+</rvf></Component><Component type="2" id="text7" zorder="14" filename="text120666078" width="705" height="68" html="" left="29" top="769" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;The shipping fee for orders may vary based on the delivery address. Same-day delivery can be arranged if you place your order before 1:00 PM on the same day. Please note that orders placed after 1:00 PM will be shipped on the following day.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;The shipping fee for orders may vary based on the delivery address. Same-day delivery can be arranged if you place your order before 1:00 PM on the same day. Please note that orders placed after 1:00 PM will be shipped on the following day.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSA0IDAgMCAwDQpUaGUgc2hpcHBpbmcgZmVlIGZvciBv
+cmRlcnMgbWF5IHZhcnkgYmFzZWQgb24gdGhlIGRlbGl2ZXJ5IGFkZHJlc3MuIFNhbWUtZGF5IGRl
+bGl2ZXJ5IGNhbiBiZSBhcnJhbmdlZCBpZiB5b3UgcGxhY2UgeW91ciBvcmRlciBiZWZvcmUgMTow
+MCBQTSBvbiB0aGUgc2FtZSBkYXkuIFBsZWFzZSBub3RlIHRoYXQgb3JkZXJzIHBsYWNlZCBhZnRl
+ciAxOjAwIFBNIHdpbGwgYmUgc2hpcHBlZCBvbiB0aGUgZm9sbG93aW5nIGRheS4NCg==
+</rvf></Component><Component type="9" id="hr3" zorder="15" filename="hr120681937" hrsize="2" width="1371" height="17" left="0" top="853" fp="1" lp="1"/><Component type="2" id="text8" zorder="16" filename="text120797750" width="592" height="45" html="" left="25" top="866" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" style="font-size:27px;"&gt;&lt;B&gt;Can i cancel my order ?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" class="ws20"&gt;&lt;B&gt;Can i cancel my order ?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgT7188A
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQ2FuIGkgY2FuY2Vs
+IG15IG9yZGVyID8NCg==
+</rvf></Component><Component type="2" id="text9" zorder="17" filename="text120850328" width="718" height="186" html="" left="28" top="928" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;You can cancel your order within 24 hours or one (1) day prior to your desired delivery date, and we will process a refund for you. Typically, it takes 3-5 working days to refund the amount back to your account. However, please note that the refund process may take up to 7 working days, depending on the payment method you used when placing the order with Kayla Florist.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;This is our cancellation policy that you need to adhere to in order to cancel an order. Failure to comply with the rules we have set may affect your request to cancel the order and receive a refund.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;You can cancel your order within 24 hours or one (1) day prior to your desired delivery date, and we will process a refund for you. Typically, it takes 3-5 working days to refund the amount back to your account. However, please note that the refund process may take up to 7 working days, depending on the payment method you used when placing the order with Kayla Florist.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;This is our cancellation policy that you need to adhere to in order to cancel an order. Failure to comply with the rules we have set may affect your request to cancel the order and receive a refund.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMyA0IDAgMCAwDQpZb3UgY2FuIGNhbmNlbCB5b3VyIG9y
+ZGVyIHdpdGhpbiAyNCBob3VycyBvciBvbmUgKDEpIGRheSBwcmlvciB0byB5b3VyIGRlc2lyZWQg
+ZGVsaXZlcnkgZGF0ZSwgYW5kIHdlIHdpbGwgcHJvY2VzcyBhIHJlZnVuZCBmb3IgeW91LiBUeXBp
+Y2FsbHksIGl0IHRha2VzIDMtNSB3b3JraW5nIGRheXMgdG8gcmVmdW5kIHRoZSBhbW91bnQgYmFj
+ayB0byB5b3VyIGFjY291bnQuIEhvd2V2ZXIsIHBsZWFzZSBub3RlIHRoYXQgdGhlIHJlZnVuZCBw
+cm9jZXNzIG1heSB0YWtlIHVwIHRvIDcgd29ya2luZyBkYXlzLCBkZXBlbmRpbmcgb24gdGhlIHBh
+eW1lbnQgbWV0aG9kIHlvdSB1c2VkIHdoZW4gcGxhY2luZyB0aGUgb3JkZXIgd2l0aCBLYXlsYSBG
+bG9yaXN0Lg0KDQpUaGlzIGlzIG91ciBjYW5jZWxsYXRpb24gcG9saWN5IHRoYXQgeW91IG5lZWQg
+dG8gYWRoZXJlIHRvIGluIG9yZGVyIHRvIGNhbmNlbCBhbiBvcmRlci4gRmFpbHVyZSB0byBjb21w
+bHkgd2l0aCB0aGUgcnVsZXMgd2UgaGF2ZSBzZXQgbWF5IGFmZmVjdCB5b3VyIHJlcXVlc3QgdG8g
+Y2FuY2VsIHRoZSBvcmRlciBhbmQgcmVjZWl2ZSBhIHJlZnVuZC4NCg==
+</rvf></Component><Component type="9" id="hr4" zorder="18" filename="hr120905046" hrsize="2" width="1371" height="17" left="0" top="1112" fp="1" lp="1"/><Component type="2" id="text10" zorder="19" filename="text120998968" width="731" height="45" html="" left="25" top="1128" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" style="font-size:27px;"&gt;&lt;B&gt;How can I know if my order has been shipped or not?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FBD7CF" face="Poppins" class="ws20"&gt;&lt;B&gt;How can I know if my order has been shipped or not?&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgT7188A
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KSG93IGNhbiBJIGtu
+b3cgaWYgbXkgb3JkZXIgaGFzIGJlZW4gc2hpcHBlZCBvciBub3Q/DQo=
+</rvf></Component><Component type="2" id="text11" zorder="20" filename="text121055281" width="718" height="71" html="" left="25" top="1174" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" style="font-size:15px;"&gt;Certainly, once we have finished packaging and handed it over to our courier, we will provide you with a tracking number so that you can track the package. This will allow you to stay updated on the delivery status of your order.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Poppins" class="ws11"&gt;Certainly, once we have finished packaging and handed it over to our courier, we will provide you with a tracking number so that you can track the package. This will allow you to stay updated on the delivery status of your order.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSA0IDAgMCAwDQpDZXJ0YWlubHksIG9uY2Ugd2UgaGF2
+ZSBmaW5pc2hlZCBwYWNrYWdpbmcgYW5kIGhhbmRlZCBpdCBvdmVyIHRvIG91ciBjb3VyaWVyLCB3
+ZSB3aWxsIHByb3ZpZGUgeW91IHdpdGggYSB0cmFja2luZyBudW1iZXIgc28gdGhhdCB5b3UgY2Fu
+IHRyYWNrIHRoZSBwYWNrYWdlLiBUaGlzIHdpbGwgYWxsb3cgeW91IHRvIHN0YXkgdXBkYXRlZCBv
+biB0aGUgZGVsaXZlcnkgc3RhdHVzIG9mIHlvdXIgb3JkZXIuDQo=
+</rvf></Component><Component type="4" id="shape2" zorder="21" filename="shape121200937" width="1373" height="219" bgcolor="#000000" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeE5HQ8.gif" left="0" top="1431" fillstyle="0" fp="1" global="" exportfilename="images/shape121200937.gif" lp="1"/><Component type="2" id="text12" zorder="22" filename="text121200953" width="162" height="28" html="" left="99" top="1444" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkluZm9ybWF0
+aW9ucw0K
+</rvf></Component><Component type="13" id="rollimg1" zorder="23" filename="rollimg121200968" linkurl="" linktype="" linktitle="" src="C:\Users\PDS JAKARTA 2\Documents\About US White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\About US White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" mouseoversound="" alt="" width="100" height="29" left="97" top="1496" exportfilename="images/About US White.png" exportfilename2="images/About US Pink.png" exportsound="" fp="1" lp="1"/><Component type="13" id="rollimg2" zorder="24" filename="rollimg121200984" linkurl="page://p104286609" src="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" mouseoversound="" alt="" width="42" height="29" left="97" top="1533" lp="1" exportfilename="images/FAQ WHITE FOOTER.png" exportfilename2="images/FAQ PINK FOOTER.png" exportsound="" fp="1"/><Component type="13" id="rollimg3" zorder="25" filename="rollimg121201000" linkurl="page://p113985593" src="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" mouseoversound="" alt="" width="150" height="32" left="90" top="1572" lp="1" exportfilename="images/Terms White.png" exportfilename2="images/Terms Pink.png" exportsound="" fp="1"/><Component type="2" id="text13" zorder="26" filename="text121201031" width="162" height="28" html="" left="396" top="1442" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkN1c3RvbWVy
+IFNlcnZpY2UNCg==
+</rvf></Component><Component type="13" id="rollimg4" zorder="27" filename="rollimg121201046" linkurl="page://p104278109" src="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" mouseoversound="" alt="" width="69" height="34" left="391" top="1488" exportfilename="images/Contact White Footer.png" exportfilename2="images/Contact Pink Footer.png" exportsound="" fp="1" lp="1"/><Component type="2" id="text14" zorder="28" filename="text121201062" width="162" height="28" html="" left="647" top="1441" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvbnRhY3Qg
+VVMNCg==
+</rvf></Component><Component type="13" id="rollimg5" zorder="29" filename="rollimg121201078" linkurl="http://wa.me/628990682073" src="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" mouseoversound="" alt="" width="181" height="32" left="641" top="1490" lp="1" exportfilename="images/PhoneNum White.png" exportfilename2="images/PhoneNum Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg6" zorder="30" filename="rollimg121201093" linkurl="mailto:sekarajengkay@gmail.com" src="C:\Users\PDS JAKARTA 2\Documents\Email White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Email White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" mouseoversound="" alt="" width="216" height="29" left="643" top="1530" lp="1" exportfilename="images/Email White.png" exportfilename2="images/Email Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg7" zorder="31" filename="rollimg121201109" linkurl="https://instagram.com/sekaylla?igshid=NTc4MTIwNjQ2YQ==" src="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" mouseoversound="" alt="" width="182" height="32" left="633" top="1568" lp="1" exportfilename="images/Instagram White.png" exportfilename2="images/Instagram Pink.png" exportsound="" fp="1"/><Component type="4" id="shape3" zorder="32" filename="shape121201125" width="1374" height="26" bgcolor="#C0C0C0" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapePLTBU.gif" left="0" top="1647" fp="1" exportfilename="images/shape121201125.gif" lp="1"/><Component type="2" id="text15" zorder="33" filename="text121201140" width="237" height="18" html="" left="2" top="1652" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:11px;"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws8"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCAVTdHlsZQsGZnNCb2xkAAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvcHlyaWdodCAyMDIzIKkgS2F5bGEg
+RmxvcmlzdA0K
+</rvf></Component></body></page><page id="p113985593" pageindex="4" name="Terms Page" pp="0" cp="0"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_rollimg4" zorder="0" global="1"/><Component id="g_rollimg3" zorder="1" global="1"/><Component id="g_rollimg2" zorder="2" global="1"/><Component id="g_rollimg1" zorder="3" global="1"/><Component id="g_image1" zorder="4" global="1"/><Component type="4" id="shape1" zorder="5" filename="shape121655671" width="1370" height="2294" bgcolor="#FBD7CF" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeOH4FL.gif" left="0" top="153" fillstyle="0" fp="1" exportfilename="images/shape121655671.gif" lp="1" selected="1"/><Component type="2" id="text1" zorder="6" filename="text121660531" width="1373" height="90" html="" left="0" top="186" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:64px;"&gt;&lt;B&gt;Terms And Conditions&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws48"&gt;&lt;B&gt;Terms And Conditions&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCMAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANClRlcm1zIEFu
+ZCBDb25kaXRpb25zDQo=
+</rvf></Component><Component type="2" id="text2" zorder="7" filename="text121746656" width="1359" height="2120" html="" left="12" top="310" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:19px;"&gt;&lt;B&gt;TERMS &amp;amp; CONDITIONS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Order Acceptance Policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;All orders and other requests received are subject to acceptance by Kayla Florist, and any of its personnel, reserve the right, at our absolute discretion, to reject any order without giving reasons. In the event of rejection, we will refund or cancel any payments received in full, via the payment method used to place the order.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Delivery of your order&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We provide same day deliveries for orders confirmed before 2 pm. Order placed from 2 pm onwards are delivered the following day or any other day as selected by the customer on the cart page.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Changes to your order&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;If you wish to make any changes your order, please do so by contacting us at sekarajengkay@gmail.com or via phone. We will always do our best to make last-minute changes for you, but we can only guarantee changes (including to the delivery address and in relation to card messages) that are requested by 1PM one (1) day before the intended delivery day.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Cancellation policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;On demand orders can be cancelled by 1PM one (1) day before the intended delivery day and a full refund will be issued. You can cancel by contacting sekarajengkay@gmail.com or via phone&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Product and Substitution Policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;All Products are subject to availability. In the order of any supply difficulties, we reserve the right to substitute a Product of equivalent value and quality without notice.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;The order that we are unable to supply the Product or any substitute product to you at all, we shall notify you as soon as is reasonably possible and shall reimburse your payment in full.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Product requests, we will try to fulfill all requests to the best of our ability. For simple requests like changing the color of the flower from say, red to white, please inform us via phone / email and will try to accommodate the request subject to the availability of the color. However, for more complicated requests, such as arrangements to your specifications, please contact us to find out if it would be possible.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Payments&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We accept Visa, MasterCard and American Express credit and many more. In order to offer the best security, all our payments are processed securely by Paypal.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;If you create an account, your card will be stored securely by Paypal so that you can check out on future visits without re-entering your card details.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We never store or have access to your credit or debit card details.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Prices and Additional Charges&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;All prices excludes delivery charges unless otherwise stated.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Delivery policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Flower deliveries can be done on Mondays to Sundays.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Timed deliveries are not available.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Although our team will always try our best to ensure punctual delivery for our customers, Flower Chimp cannot be held responsible if a delivery arrives late due to any circumstances impacting the availability of the courier service that we use or anything else outside of Flower Chimp’s control.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;In the event of a non-delivery, please contact us at sekarajengkay@gmail.com or via phone. It is the customer's responsibility to contact us within 1 days of the scheduled delivery date in order to claim a refund. Failure to do so will result in the lapse of any rights to a refund.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We can deliver to any address within Indonesia, but do not deliver to PO boxes.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We reserve the right, at our absolute discretion, to use a different delivery method without prior notification.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;In the event if the delivery details provided is incorrect (example: wrong address / contact / name) we cannot accept responsibility for the failed delivery. We will arrange to re-deliver but a re-delivery fee may be incurred.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Freshness&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We promise to send you the freshest of flowers and this would mean that they will occasionally come in bud form which will last longer. If you receive flowers that do not seem fresh, please contact our customer care at sekarjaengkay@gmail.com to inform us immediately. If, at our discretion, the flowers do not meet our high freshness standards, we will give you the choice of a replacement at our next available delivery date or a refund. In your email, please include a photo of the un-fresh flowers within 12 hours of receipt in order to be eligible for a refund. If we offer you a refund, please note that banks generally take up to 10 business days to process and transfer the funds into your account. Some banks can take up to 15-30 days, or until your next billing cycle. Flower Chimp has no influence over these timescales.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Damage&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Our flowers are wrapped or arranged carefully to ensure they arrive as beautiful and as fresh as when they left us. However, on a small number of occasions (and for reasons beyond our control) they may get damaged in transit. Should this occur to a level that you deem unacceptable, please contact our customer care at sekarjaengkay@gmail.com to inform us immediately so that we can arrange a replacement at our next available delivery date, or a refund. Please note that you will need to email us a photo of the damaged flowers within 12 hours of receipt in order to be eligible for a refund. If we offer you a refund, please note that banks generally take up to 10 business days to process and transfer the funds into your account. Some banks can take up to 15-30 days, or until your next billing cycle. Flower Chimp has no influence over these timescales.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Non Delivery&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We do everything we can to ensure our flowers are delivered. If for any reason we made a mistake and deliveries don't turn up, (i.e. if your flowers have not arrived on their intended delivery date), please contact our customer care at sekarjaengkay@gmail.com to inform us. We will send you a replacement on our next available delivery date, or a refund. If we offer you a refund, please note that banks generally take up to 10 business days to process and transfer the funds into your account. Some banks can take up to 15-30 days, or until your next billing cycle. Flower Chimp has no influence over these timescales.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Returns and refunds&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Satisfying flower recipient and sender is our ultimate aim. We always strive to deliver fresh flowers at its best condition and on time.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Return Policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Please understand that due to the perishable nature of flowers, we are unable to accept returns. We offer customers refunds or replacement flowers if the flowers are not delivered to an acceptable quality, as detailed above.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Flower availability and substitution&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;All products are subject to availability. In the event of any supply difficulties or if the flowers we have received from our growers that are needed to make up your order do not meet our high quality standards, we reserve the right, at our absolute discretion, to substitute any product with an alternate product of a similar style and equivalent (or greater) value and quality.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Offers and promotion codes&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;At our discretion, from time to time, we may offer products at discounted prices. These offers are valid from the time that we introduce them to the end date of the offer and they cannot be used for purchases before the offer introduction date or after the offer end date.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;In the event that a customer has made a purchase and the price of the purchased product subsequently falls or is discounted owing to a special offer, the price of the product at the time of purchase shall prevail. We are unable to offer special offer discounts for purchases that have already been made.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;As our special offers are contingent on availability, we may change the terms of special offers, or withdraw them altogether, at any time, and without prior notice.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We also reserve the right, at our absolute discretion, to offer different personalised special offers and promotions and it will therefore only be possible for the customer in receipt of the special offer to redeem the discount.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Unless explicitly otherwise stated, free or discounted introductory offers are only available to new users of the Kayla Florist service, and are only available once to any one person.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Discounts and credits cannot be used in conjunction with any other offers.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Unless otherwise stated, we only allow one promotion code to be used per order.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Circumstances beyond our control&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Adverse weather conditions&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;During adverse weather conditions (including heavy rain and flood), our delivery partners may not be able to deliver orders on time. This is outside of our control and we cannot accept responsibility for the late delivery of the order. Therefore, in the event of adverse weather conditions, we aren't able to refund or offer re-delivery of affected orders.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Force Majeure&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Flower Chimp shall not be liable for delay in performing or for failure to perform its obligations if the delay or failure results from any of the following: (i) Acts of God, (ii) outbreak of hostilities, riot, civil disturbance, acts of terrorism, (iii) the act of any government or authority (including refusal or revocation of any license or consent), (iv) fire, explosion, flood, fog or adverse weather, (v) power failure, failure of telecommunications lines, failure or breakdown of plant, machinery or vehicles, (vi) default of suppliers, sub-contractors or delivery partners, (vii) theft, malicious damage, strike, lock-out or industrial action of any kind, and (viii) any cause or circumstance whatsoever beyond Flower Chimp’s reasonable control.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Customer and recipient personal information&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;To ensure that we can communicate effectively with both customers and recipients, it is very important that you provide accurate personal information.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;Please remember that we value your privacy and will never lease, rent or sell your private information. For more information, please see our privacy policy.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;During the checkout process, we ask for the following personal information:&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Customer's email address&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We use this information to provide a better customer experience by sending order confirmations, substitution information, dispatch confirmations and delivery confirmations. We will also use the customer's email for marketing communications from time to time. Please ensure that email addresses are accurate.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Customer's full name and address&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We use this information for credit and debit card validation.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Customer's telephone number&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We use this information to contact customers in the event of problems with the order such as payment failures or delivery issues.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;B&gt;Recipient's full name and address&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:12px;"&gt;We require this information in order to deliver the flowers you have ordered. It is vital that the recipient's address is accurate.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws14"&gt;&lt;B&gt;TERMS &amp;amp; CONDITIONS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Order Acceptance Policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;All orders and other requests received are subject to acceptance by Kayla Florist, and any of its personnel, reserve the right, at our absolute discretion, to reject any order without giving reasons. In the event of rejection, we will refund or cancel any payments received in full, via the payment method used to place the order.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Delivery of your order&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;We provide same day deliveries for orders confirmed before 2 pm. Order placed from 2 pm onwards are delivered the following day or any other day as selected by the customer on the cart page.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Changes to your order&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;If you wish to make any changes your order, please do so by contacting us at sekarajengkay@gmail.com or via phone. We will always do our best to make last-minute changes for you, but we can only guarantee changes (including to the delivery address and in relation to card messages) that are requested by 1PM one (1) day before the intended delivery day.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Cancellation policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;On demand orders can be cancelled by 1PM one (1) day before the intended delivery day and a full refund will be issued. You can cancel by contacting sekarajengkay@gmail.com or via phone&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Product and Substitution Policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;All Products are subject to availability. In the order of any supply difficulties, we reserve the right to substitute a Product of equivalent value and quality without notice.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;The order that we are unable to supply the Product or any substitute product to you at all, we shall notify you as soon as is reasonably possible and shall reimburse your payment in full.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;Product requests, we will try to fulfill all requests to the best of our ability. For simple requests like changing the color of the flower from say, red to white, please inform us via phone / email and will try to accommodate the request subject to the availability of the color. However, for more complicated requests, such as arrangements to your specifications, please contact us to find out if it would be possible.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Payments&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;We accept Visa, MasterCard and American Express credit and many more. In order to offer the best security, all our payments are processed securely by Paypal.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;If you create an account, your card will be stored securely by Paypal so that you can check out on future visits without re-entering your card details.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;We never store or have access to your credit or debit card details.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Prices and Additional Charges&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;All prices excludes delivery charges unless otherwise stated.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Delivery policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;Flower deliveries can be done on Mondays to Sundays.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;Timed deliveries are not available.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;Although our team will always try our best to ensure punctual delivery for our customers, Flower Chimp cannot be held responsible if a delivery arrives late due to any circumstances impacting the availability of the courier service that we use or anything else outside of Flower Chimp’s control.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;In the event of a non-delivery, please contact us at sekarajengkay@gmail.com or via phone. It is the customer's responsibility to contact us within 1 days of the scheduled delivery date in order to claim a refund. Failure to do so will result in the lapse of any rights to a refund.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;We can deliver to any address within Indonesia, but do not deliver to PO boxes.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;We reserve the right, at our absolute discretion, to use a different delivery method without prior notification.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;In the event if the delivery details provided is incorrect (example: wrong address / contact / name) we cannot accept responsibility for the failed delivery. We will arrange to re-deliver but a re-delivery fee may be incurred.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Freshness&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;We promise to send you the freshest of flowers and this would mean that they will occasionally come in bud form which will last longer. If you receive flowers that do not seem fresh, please contact our customer care at sekarjaengkay@gmail.com to inform us immediately. If, at our discretion, the flowers do not meet our high freshness standards, we will give you the choice of a replacement at our next available delivery date or a refund. In your email, please include a photo of the un-fresh flowers within 12 hours of receipt in order to be eligible for a refund. If we offer you a refund, please note that banks generally take up to 10 business days to process and transfer the funds into your account. Some banks can take up to 15-30 days, or until your next billing cycle. Flower Chimp has no influence over these timescales.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Damage&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;Our flowers are wrapped or arranged carefully to ensure they arrive as beautiful and as fresh as when they left us. However, on a small number of occasions (and for reasons beyond our control) they may get damaged in transit. Should this occur to a level that you deem unacceptable, please contact our customer care at sekarjaengkay@gmail.com to inform us immediately so that we can arrange a replacement at our next available delivery date, or a refund. Please note that you will need to email us a photo of the damaged flowers within 12 hours of receipt in order to be eligible for a refund. If we offer you a refund, please note that banks generally take up to 10 business days to process and transfer the funds into your account. Some banks can take up to 15-30 days, or until your next billing cycle. Flower Chimp has no influence over these timescales.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Non Delivery&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;We do everything we can to ensure our flowers are delivered. If for any reason we made a mistake and deliveries don't turn up, (i.e. if your flowers have not arrived on their intended delivery date), please contact our customer care at sekarjaengkay@gmail.com to inform us. We will send you a replacement on our next available delivery date, or a refund. If we offer you a refund, please note that banks generally take up to 10 business days to process and transfer the funds into your account. Some banks can take up to 15-30 days, or until your next billing cycle. Flower Chimp has no influence over these timescales.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Returns and refunds&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;Satisfying flower recipient and sender is our ultimate aim. We always strive to deliver fresh flowers at its best condition and on time.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Return Policy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;Please understand that due to the perishable nature of flowers, we are unable to accept returns. We offer customers refunds or replacement flowers if the flowers are not delivered to an acceptable quality, as detailed above.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Flower availability and substitution&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;All products are subject to availability. In the event of any supply difficulties or if the flowers we have received from our growers that are needed to make up your order do not meet our high quality standards, we reserve the right, at our absolute discretion, to substitute any product with an alternate product of a similar style and equivalent (or greater) value and quality.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Offers and promotion codes&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;At our discretion, from time to time, we may offer products at discounted prices. These offers are valid from the time that we introduce them to the end date of the offer and they cannot be used for purchases before the offer introduction date or after the offer end date.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;In the event that a customer has made a purchase and the price of the purchased product subsequently falls or is discounted owing to a special offer, the price of the product at the time of purchase shall prevail. We are unable to offer special offer discounts for purchases that have already been made.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;As our special offers are contingent on availability, we may change the terms of special offers, or withdraw them altogether, at any time, and without prior notice.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;We also reserve the right, at our absolute discretion, to offer different personalised special offers and promotions and it will therefore only be possible for the customer in receipt of the special offer to redeem the discount.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;Unless explicitly otherwise stated, free or discounted introductory offers are only available to new users of the Kayla Florist service, and are only available once to any one person.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;Discounts and credits cannot be used in conjunction with any other offers.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;Unless otherwise stated, we only allow one promotion code to be used per order.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;Circumstances beyond our control&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Adverse weather conditions&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;During adverse weather conditions (including heavy rain and flood), our delivery partners may not be able to deliver orders on time. This is outside of our control and we cannot accept responsibility for the late delivery of the order. Therefore, in the event of adverse weather conditions, we aren't able to refund or offer re-delivery of affected orders.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Force Majeure&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;Flower Chimp shall not be liable for delay in performing or for failure to perform its obligations if the delay or failure results from any of the following: (i) Acts of God, (ii) outbreak of hostilities, riot, civil disturbance, acts of terrorism, (iii) the act of any government or authority (including refusal or revocation of any license or consent), (iv) fire, explosion, flood, fog or adverse weather, (v) power failure, failure of telecommunications lines, failure or breakdown of plant, machinery or vehicles, (vi) default of suppliers, sub-contractors or delivery partners, (vii) theft, malicious damage, strike, lock-out or industrial action of any kind, and (viii) any cause or circumstance whatsoever beyond Flower Chimp’s reasonable control.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Customer and recipient personal information&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;To ensure that we can communicate effectively with both customers and recipients, it is very important that you provide accurate personal information.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;Please remember that we value your privacy and will never lease, rent or sell your private information. For more information, please see our privacy policy.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;During the checkout process, we ask for the following personal information:&lt;/font&gt;&lt;/div&gt;
+&lt;div style="margin-left:40px;"&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Customer's email address&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;We use this information to provide a better customer experience by sending order confirmations, substitution information, dispatch confirmations and delivery confirmations. We will also use the customer's email for marketing communications from time to time. Please ensure that email addresses are accurate.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Customer's full name and address&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;We use this information for credit and debit card validation.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Customer's telephone number&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;We use this information to contact customers in the event of problems with the order such as payment failures or delivery issues.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;B&gt;Recipient's full name and address&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws9"&gt;We require this information in order to deliver the flowers you have ordered. It is vital that the recipient's address is accurate.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp6AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCQVTdHlsZQsGZnNCb2xkAAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDgVTdHls
+ZQsGZnNCb2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KRwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBB
+bGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2
+YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1l
+bnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUH
+T3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJl
+dHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGlnbghTdGFuZGFyZAgKTGVmdEluZGVu
+dAIoB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADUgMSAwIDAg
+MCAwDQpURVJNUyAmIENPTkRJVElPTlMNCjQgMSAwIDAgMCAwDQpPcmRlciBBY2NlcHRhbmNlIFBv
+bGljeQ0KMyAzIDAgMCAwIDANCg0KQWxsIG9yZGVycyBhbmQgb3RoZXIgcmVxdWVzdHMgcmVjZWl2
+ZWQgYXJlIHN1YmplY3QgdG8gYWNjZXB0YW5jZSBieSBLYXlsYSBGbG9yaXN0LCBhbmQgYW55IG9m
+IGl0cyBwZXJzb25uZWwsIHJlc2VydmUgdGhlIHJpZ2h0LCBhdCBvdXIgYWJzb2x1dGUgZGlzY3Jl
+dGlvbiwgdG8gcmVqZWN0IGFueSBvcmRlciB3aXRob3V0IGdpdmluZyByZWFzb25zLiBJbiB0aGUg
+ZXZlbnQgb2YgcmVqZWN0aW9uLCB3ZSB3aWxsIHJlZnVuZCBvciBjYW5jZWwgYW55IHBheW1lbnRz
+IHJlY2VpdmVkIGluIGZ1bGwsIHZpYSB0aGUgcGF5bWVudCBtZXRob2QgdXNlZCB0byBwbGFjZSB0
+aGUgb3JkZXIuDQoNCjQgMSAwIDAgMCAwDQpEZWxpdmVyeSBvZiB5b3VyIG9yZGVyDQozIDMgMCAw
+IDAgMA0KDQpXZSBwcm92aWRlIHNhbWUgZGF5IGRlbGl2ZXJpZXMgZm9yIG9yZGVycyBjb25maXJt
+ZWQgYmVmb3JlIDIgcG0uIE9yZGVyIHBsYWNlZCBmcm9tIDIgcG0gb253YXJkcyBhcmUgZGVsaXZl
+cmVkIHRoZSBmb2xsb3dpbmcgZGF5IG9yIGFueSBvdGhlciBkYXkgYXMgc2VsZWN0ZWQgYnkgdGhl
+IGN1c3RvbWVyIG9uIHRoZSBjYXJ0IHBhZ2UuDQoNCjQgMSAwIDAgMCAwDQpDaGFuZ2VzIHRvIHlv
+dXIgb3JkZXINCjMgMyAwIDAgMCAwDQoNCklmIHlvdSB3aXNoIHRvIG1ha2UgYW55IGNoYW5nZXMg
+eW91ciBvcmRlciwgcGxlYXNlIGRvIHNvIGJ5IGNvbnRhY3RpbmcgdXMgYXQgc2VrYXJhamVuZ2th
+eUBnbWFpbC5jb20gb3IgdmlhIHBob25lLiBXZSB3aWxsIGFsd2F5cyBkbyBvdXIgYmVzdCB0byBt
+YWtlIGxhc3QtbWludXRlIGNoYW5nZXMgZm9yIHlvdSwgYnV0IHdlIGNhbiBvbmx5IGd1YXJhbnRl
+ZSBjaGFuZ2VzIChpbmNsdWRpbmcgdG8gdGhlIGRlbGl2ZXJ5IGFkZHJlc3MgYW5kIGluIHJlbGF0
+aW9uIHRvIGNhcmQgbWVzc2FnZXMpIHRoYXQgYXJlIHJlcXVlc3RlZCBieSAxUE0gb25lICgxKSBk
+YXkgYmVmb3JlIHRoZSBpbnRlbmRlZCBkZWxpdmVyeSBkYXkuDQoNCjQgMSAwIDAgMCAwDQpDYW5j
+ZWxsYXRpb24gcG9saWN5DQozIDMgMCAwIDAgMA0KDQpPbiBkZW1hbmQgb3JkZXJzIGNhbiBiZSBj
+YW5jZWxsZWQgYnkgMVBNIG9uZSAoMSkgZGF5IGJlZm9yZSB0aGUgaW50ZW5kZWQgZGVsaXZlcnkg
+ZGF5IGFuZCBhIGZ1bGwgcmVmdW5kIHdpbGwgYmUgaXNzdWVkLiBZb3UgY2FuIGNhbmNlbCBieSBj
+b250YWN0aW5nIHNla2FyYWplbmdrYXlAZ21haWwuY29tIG9yIHZpYSBwaG9uZQ0KDQo0IDEgMCAw
+IDAgMA0KUHJvZHVjdCBhbmQgU3Vic3RpdHV0aW9uIFBvbGljeQ0KMyAxIDAgMCAwIDANCg0KMyAz
+IDQgMCAwIDANCkFsbCBQcm9kdWN0cyBhcmUgc3ViamVjdCB0byBhdmFpbGFiaWxpdHkuIEluIHRo
+ZSBvcmRlciBvZiBhbnkgc3VwcGx5IGRpZmZpY3VsdGllcywgd2UgcmVzZXJ2ZSB0aGUgcmlnaHQg
+dG8gc3Vic3RpdHV0ZSBhIFByb2R1Y3Qgb2YgZXF1aXZhbGVudCB2YWx1ZSBhbmQgcXVhbGl0eSB3
+aXRob3V0IG5vdGljZS4NClRoZSBvcmRlciB0aGF0IHdlIGFyZSB1bmFibGUgdG8gc3VwcGx5IHRo
+ZSBQcm9kdWN0IG9yIGFueSBzdWJzdGl0dXRlIHByb2R1Y3QgdG8geW91IGF0IGFsbCwgd2Ugc2hh
+bGwgbm90aWZ5IHlvdSBhcyBzb29uIGFzIGlzIHJlYXNvbmFibHkgcG9zc2libGUgYW5kIHNoYWxs
+IHJlaW1idXJzZSB5b3VyIHBheW1lbnQgaW4gZnVsbC4NClByb2R1Y3QgcmVxdWVzdHMsIHdlIHdp
+bGwgdHJ5IHRvIGZ1bGZpbGwgYWxsIHJlcXVlc3RzIHRvIHRoZSBiZXN0IG9mIG91ciBhYmlsaXR5
+LiBGb3Igc2ltcGxlIHJlcXVlc3RzIGxpa2UgY2hhbmdpbmcgdGhlIGNvbG9yIG9mIHRoZSBmbG93
+ZXIgZnJvbSBzYXksIHJlZCB0byB3aGl0ZSwgcGxlYXNlIGluZm9ybSB1cyB2aWEgcGhvbmUgLyBl
+bWFpbCBhbmQgd2lsbCB0cnkgdG8gYWNjb21tb2RhdGUgdGhlIHJlcXVlc3Qgc3ViamVjdCB0byB0
+aGUgYXZhaWxhYmlsaXR5IG9mIHRoZSBjb2xvci4gSG93ZXZlciwgZm9yIG1vcmUgY29tcGxpY2F0
+ZWQgcmVxdWVzdHMsIHN1Y2ggYXMgYXJyYW5nZW1lbnRzIHRvIHlvdXIgc3BlY2lmaWNhdGlvbnMs
+IHBsZWFzZSBjb250YWN0IHVzIHRvIGZpbmQgb3V0IGlmIGl0IHdvdWxkIGJlIHBvc3NpYmxlLg0K
+NCAxIDAgMCAwIDANClBheW1lbnRzDQozIDEgMCAwIDAgMA0KDQozIDMgNCAwIDAgMA0KV2UgYWNj
+ZXB0IFZpc2EsIE1hc3RlckNhcmQgYW5kIEFtZXJpY2FuIEV4cHJlc3MgY3JlZGl0IGFuZCBtYW55
+IG1vcmUuIEluIG9yZGVyIHRvIG9mZmVyIHRoZSBiZXN0IHNlY3VyaXR5LCBhbGwgb3VyIHBheW1l
+bnRzIGFyZSBwcm9jZXNzZWQgc2VjdXJlbHkgYnkgUGF5cGFsLg0KSWYgeW91IGNyZWF0ZSBhbiBh
+Y2NvdW50LCB5b3VyIGNhcmQgd2lsbCBiZSBzdG9yZWQgc2VjdXJlbHkgYnkgUGF5cGFsIHNvIHRo
+YXQgeW91IGNhbiBjaGVjayBvdXQgb24gZnV0dXJlIHZpc2l0cyB3aXRob3V0IHJlLWVudGVyaW5n
+IHlvdXIgY2FyZCBkZXRhaWxzLg0KV2UgbmV2ZXIgc3RvcmUgb3IgaGF2ZSBhY2Nlc3MgdG8geW91
+ciBjcmVkaXQgb3IgZGViaXQgY2FyZCBkZXRhaWxzLg0KNCAxIDAgMCAwIDANClByaWNlcyBhbmQg
+QWRkaXRpb25hbCBDaGFyZ2VzDQozIDEgMCAwIDAgMA0KDQozIDEgNCAwIDAgMA0KQWxsIHByaWNl
+cyBleGNsdWRlcyBkZWxpdmVyeSBjaGFyZ2VzIHVubGVzcyBvdGhlcndpc2Ugc3RhdGVkLg0KNCAx
+IDAgMCAwIDANCkRlbGl2ZXJ5IHBvbGljeQ0KMyAxIDAgMCAwIDANCg0KMyA3IDQgMCAwIDANCkZs
+b3dlciBkZWxpdmVyaWVzIGNhbiBiZSBkb25lIG9uIE1vbmRheXMgdG8gU3VuZGF5cy4NClRpbWVk
+IGRlbGl2ZXJpZXMgYXJlIG5vdCBhdmFpbGFibGUuDQpBbHRob3VnaCBvdXIgdGVhbSB3aWxsIGFs
+d2F5cyB0cnkgb3VyIGJlc3QgdG8gZW5zdXJlIHB1bmN0dWFsIGRlbGl2ZXJ5IGZvciBvdXIgY3Vz
+dG9tZXJzLCBGbG93ZXIgQ2hpbXAgY2Fubm90IGJlIGhlbGQgcmVzcG9uc2libGUgaWYgYSBkZWxp
+dmVyeSBhcnJpdmVzIGxhdGUgZHVlIHRvIGFueSBjaXJjdW1zdGFuY2VzIGltcGFjdGluZyB0aGUg
+YXZhaWxhYmlsaXR5IG9mIHRoZSBjb3VyaWVyIHNlcnZpY2UgdGhhdCB3ZSB1c2Ugb3IgYW55dGhp
+bmcgZWxzZSBvdXRzaWRlIG9mIEZsb3dlciBDaGltcJJzIGNvbnRyb2wuDQpJbiB0aGUgZXZlbnQg
+b2YgYSBub24tZGVsaXZlcnksIHBsZWFzZSBjb250YWN0IHVzIGF0IHNla2FyYWplbmdrYXlAZ21h
+aWwuY29tIG9yIHZpYSBwaG9uZS4gSXQgaXMgdGhlIGN1c3RvbWVyJ3MgcmVzcG9uc2liaWxpdHkg
+dG8gY29udGFjdCB1cyB3aXRoaW4gMSBkYXlzIG9mIHRoZSBzY2hlZHVsZWQgZGVsaXZlcnkgZGF0
+ZSBpbiBvcmRlciB0byBjbGFpbSBhIHJlZnVuZC4gRmFpbHVyZSB0byBkbyBzbyB3aWxsIHJlc3Vs
+dCBpbiB0aGUgbGFwc2Ugb2YgYW55IHJpZ2h0cyB0byBhIHJlZnVuZC4NCldlIGNhbiBkZWxpdmVy
+IHRvIGFueSBhZGRyZXNzIHdpdGhpbiBJbmRvbmVzaWEsIGJ1dCBkbyBub3QgZGVsaXZlciB0byBQ
+TyBib3hlcy4NCldlIHJlc2VydmUgdGhlIHJpZ2h0LCBhdCBvdXIgYWJzb2x1dGUgZGlzY3JldGlv
+biwgdG8gdXNlIGEgZGlmZmVyZW50IGRlbGl2ZXJ5IG1ldGhvZCB3aXRob3V0IHByaW9yIG5vdGlm
+aWNhdGlvbi4NCkluIHRoZSBldmVudCBpZiB0aGUgZGVsaXZlcnkgZGV0YWlscyBwcm92aWRlZCBp
+cyBpbmNvcnJlY3QgKGV4YW1wbGU6IHdyb25nIGFkZHJlc3MgLyBjb250YWN0IC8gbmFtZSkgd2Ug
+Y2Fubm90IGFjY2VwdCByZXNwb25zaWJpbGl0eSBmb3IgdGhlIGZhaWxlZCBkZWxpdmVyeS4gV2Ug
+d2lsbCBhcnJhbmdlIHRvIHJlLWRlbGl2ZXIgYnV0IGEgcmUtZGVsaXZlcnkgZmVlIG1heSBiZSBp
+bmN1cnJlZC4NCjQgMSAwIDAgMCAwDQpGcmVzaG5lc3MNCjMgMyAwIDAgMCAwDQoNCldlIHByb21p
+c2UgdG8gc2VuZCB5b3UgdGhlIGZyZXNoZXN0IG9mIGZsb3dlcnMgYW5kIHRoaXMgd291bGQgbWVh
+biB0aGF0IHRoZXkgd2lsbCBvY2Nhc2lvbmFsbHkgY29tZSBpbiBidWQgZm9ybSB3aGljaCB3aWxs
+IGxhc3QgbG9uZ2VyLiBJZiB5b3UgcmVjZWl2ZSBmbG93ZXJzIHRoYXQgZG8gbm90IHNlZW0gZnJl
+c2gsIHBsZWFzZSBjb250YWN0IG91ciBjdXN0b21lciBjYXJlIGF0IHNla2FyamFlbmdrYXlAZ21h
+aWwuY29tIHRvIGluZm9ybSB1cyBpbW1lZGlhdGVseS4gSWYsIGF0IG91ciBkaXNjcmV0aW9uLCB0
+aGUgZmxvd2VycyBkbyBub3QgbWVldCBvdXIgaGlnaCBmcmVzaG5lc3Mgc3RhbmRhcmRzLCB3ZSB3
+aWxsIGdpdmUgeW91IHRoZSBjaG9pY2Ugb2YgYSByZXBsYWNlbWVudCBhdCBvdXIgbmV4dCBhdmFp
+bGFibGUgZGVsaXZlcnkgZGF0ZSBvciBhIHJlZnVuZC4gSW4geW91ciBlbWFpbCwgcGxlYXNlIGlu
+Y2x1ZGUgYSBwaG90byBvZiB0aGUgdW4tZnJlc2ggZmxvd2VycyB3aXRoaW4gMTIgaG91cnMgb2Yg
+cmVjZWlwdCBpbiBvcmRlciB0byBiZSBlbGlnaWJsZSBmb3IgYSByZWZ1bmQuIElmIHdlIG9mZmVy
+IHlvdSBhIHJlZnVuZCwgcGxlYXNlIG5vdGUgdGhhdCBiYW5rcyBnZW5lcmFsbHkgdGFrZSB1cCB0
+byAxMCBidXNpbmVzcyBkYXlzIHRvIHByb2Nlc3MgYW5kIHRyYW5zZmVyIHRoZSBmdW5kcyBpbnRv
+IHlvdXIgYWNjb3VudC4gU29tZSBiYW5rcyBjYW4gdGFrZSB1cCB0byAxNS0zMCBkYXlzLCBvciB1
+bnRpbCB5b3VyIG5leHQgYmlsbGluZyBjeWNsZS4gRmxvd2VyIENoaW1wIGhhcyBubyBpbmZsdWVu
+Y2Ugb3ZlciB0aGVzZSB0aW1lc2NhbGVzLg0KDQo0IDEgMCAwIDAgMA0KRGFtYWdlDQozIDMgMCAw
+IDAgMA0KDQpPdXIgZmxvd2VycyBhcmUgd3JhcHBlZCBvciBhcnJhbmdlZCBjYXJlZnVsbHkgdG8g
+ZW5zdXJlIHRoZXkgYXJyaXZlIGFzIGJlYXV0aWZ1bCBhbmQgYXMgZnJlc2ggYXMgd2hlbiB0aGV5
+IGxlZnQgdXMuIEhvd2V2ZXIsIG9uIGEgc21hbGwgbnVtYmVyIG9mIG9jY2FzaW9ucyAoYW5kIGZv
+ciByZWFzb25zIGJleW9uZCBvdXIgY29udHJvbCkgdGhleSBtYXkgZ2V0IGRhbWFnZWQgaW4gdHJh
+bnNpdC4gU2hvdWxkIHRoaXMgb2NjdXIgdG8gYSBsZXZlbCB0aGF0IHlvdSBkZWVtIHVuYWNjZXB0
+YWJsZSwgcGxlYXNlIGNvbnRhY3Qgb3VyIGN1c3RvbWVyIGNhcmUgYXQgc2VrYXJqYWVuZ2theUBn
+bWFpbC5jb20gdG8gaW5mb3JtIHVzIGltbWVkaWF0ZWx5IHNvIHRoYXQgd2UgY2FuIGFycmFuZ2Ug
+YSByZXBsYWNlbWVudCBhdCBvdXIgbmV4dCBhdmFpbGFibGUgZGVsaXZlcnkgZGF0ZSwgb3IgYSBy
+ZWZ1bmQuIFBsZWFzZSBub3RlIHRoYXQgeW91IHdpbGwgbmVlZCB0byBlbWFpbCB1cyBhIHBob3Rv
+IG9mIHRoZSBkYW1hZ2VkIGZsb3dlcnMgd2l0aGluIDEyIGhvdXJzIG9mIHJlY2VpcHQgaW4gb3Jk
+ZXIgdG8gYmUgZWxpZ2libGUgZm9yIGEgcmVmdW5kLiBJZiB3ZSBvZmZlciB5b3UgYSByZWZ1bmQs
+IHBsZWFzZSBub3RlIHRoYXQgYmFua3MgZ2VuZXJhbGx5IHRha2UgdXAgdG8gMTAgYnVzaW5lc3Mg
+ZGF5cyB0byBwcm9jZXNzIGFuZCB0cmFuc2ZlciB0aGUgZnVuZHMgaW50byB5b3VyIGFjY291bnQu
+IFNvbWUgYmFua3MgY2FuIHRha2UgdXAgdG8gMTUtMzAgZGF5cywgb3IgdW50aWwgeW91ciBuZXh0
+IGJpbGxpbmcgY3ljbGUuIEZsb3dlciBDaGltcCBoYXMgbm8gaW5mbHVlbmNlIG92ZXIgdGhlc2Ug
+dGltZXNjYWxlcy4NCg0KNCAxIDAgMCAwIDANCk5vbiBEZWxpdmVyeQ0KMyAzIDAgMCAwIDANCg0K
+V2UgZG8gZXZlcnl0aGluZyB3ZSBjYW4gdG8gZW5zdXJlIG91ciBmbG93ZXJzIGFyZSBkZWxpdmVy
+ZWQuIElmIGZvciBhbnkgcmVhc29uIHdlIG1hZGUgYSBtaXN0YWtlIGFuZCBkZWxpdmVyaWVzIGRv
+bid0IHR1cm4gdXAsIChpLmUuIGlmIHlvdXIgZmxvd2VycyBoYXZlIG5vdCBhcnJpdmVkIG9uIHRo
+ZWlyIGludGVuZGVkIGRlbGl2ZXJ5IGRhdGUpLCBwbGVhc2UgY29udGFjdCBvdXIgY3VzdG9tZXIg
+Y2FyZSBhdCBzZWthcmphZW5na2F5QGdtYWlsLmNvbSB0byBpbmZvcm0gdXMuIFdlIHdpbGwgc2Vu
+ZCB5b3UgYSByZXBsYWNlbWVudCBvbiBvdXIgbmV4dCBhdmFpbGFibGUgZGVsaXZlcnkgZGF0ZSwg
+b3IgYSByZWZ1bmQuIElmIHdlIG9mZmVyIHlvdSBhIHJlZnVuZCwgcGxlYXNlIG5vdGUgdGhhdCBi
+YW5rcyBnZW5lcmFsbHkgdGFrZSB1cCB0byAxMCBidXNpbmVzcyBkYXlzIHRvIHByb2Nlc3MgYW5k
+IHRyYW5zZmVyIHRoZSBmdW5kcyBpbnRvIHlvdXIgYWNjb3VudC4gU29tZSBiYW5rcyBjYW4gdGFr
+ZSB1cCB0byAxNS0zMCBkYXlzLCBvciB1bnRpbCB5b3VyIG5leHQgYmlsbGluZyBjeWNsZS4gRmxv
+d2VyIENoaW1wIGhhcyBubyBpbmZsdWVuY2Ugb3ZlciB0aGVzZSB0aW1lc2NhbGVzLg0KDQo0IDEg
+MCAwIDAgMA0KUmV0dXJucyBhbmQgcmVmdW5kcw0KMyAzIDAgMCAwIDANCg0KU2F0aXNmeWluZyBm
+bG93ZXIgcmVjaXBpZW50IGFuZCBzZW5kZXIgaXMgb3VyIHVsdGltYXRlIGFpbS4gV2UgYWx3YXlz
+IHN0cml2ZSB0byBkZWxpdmVyIGZyZXNoIGZsb3dlcnMgYXQgaXRzIGJlc3QgY29uZGl0aW9uIGFu
+ZCBvbiB0aW1lLg0KDQo0IDEgMCAwIDAgMA0KUmV0dXJuIFBvbGljeQ0KMyAzIDAgMCAwIDANCg0K
+UGxlYXNlIHVuZGVyc3RhbmQgdGhhdCBkdWUgdG8gdGhlIHBlcmlzaGFibGUgbmF0dXJlIG9mIGZs
+b3dlcnMsIHdlIGFyZSB1bmFibGUgdG8gYWNjZXB0IHJldHVybnMuIFdlIG9mZmVyIGN1c3RvbWVy
+cyByZWZ1bmRzIG9yIHJlcGxhY2VtZW50IGZsb3dlcnMgaWYgdGhlIGZsb3dlcnMgYXJlIG5vdCBk
+ZWxpdmVyZWQgdG8gYW4gYWNjZXB0YWJsZSBxdWFsaXR5LCBhcyBkZXRhaWxlZCBhYm92ZS4NCg0K
+NCAxIDAgMCAwIDANCkZsb3dlciBhdmFpbGFiaWxpdHkgYW5kIHN1YnN0aXR1dGlvbg0KMyAzIDAg
+MCAwIDANCg0KQWxsIHByb2R1Y3RzIGFyZSBzdWJqZWN0IHRvIGF2YWlsYWJpbGl0eS4gSW4gdGhl
+IGV2ZW50IG9mIGFueSBzdXBwbHkgZGlmZmljdWx0aWVzIG9yIGlmIHRoZSBmbG93ZXJzIHdlIGhh
+dmUgcmVjZWl2ZWQgZnJvbSBvdXIgZ3Jvd2VycyB0aGF0IGFyZSBuZWVkZWQgdG8gbWFrZSB1cCB5
+b3VyIG9yZGVyIGRvIG5vdCBtZWV0IG91ciBoaWdoIHF1YWxpdHkgc3RhbmRhcmRzLCB3ZSByZXNl
+cnZlIHRoZSByaWdodCwgYXQgb3VyIGFic29sdXRlIGRpc2NyZXRpb24sIHRvIHN1YnN0aXR1dGUg
+YW55IHByb2R1Y3Qgd2l0aCBhbiBhbHRlcm5hdGUgcHJvZHVjdCBvZiBhIHNpbWlsYXIgc3R5bGUg
+YW5kIGVxdWl2YWxlbnQgKG9yIGdyZWF0ZXIpIHZhbHVlIGFuZCBxdWFsaXR5Lg0KDQo0IDEgMCAw
+IDAgMA0KT2ZmZXJzIGFuZCBwcm9tb3Rpb24gY29kZXMNCjMgMSAwIDAgMCAwDQoNCjMgOCA0IDAg
+MCAwDQpBdCBvdXIgZGlzY3JldGlvbiwgZnJvbSB0aW1lIHRvIHRpbWUsIHdlIG1heSBvZmZlciBw
+cm9kdWN0cyBhdCBkaXNjb3VudGVkIHByaWNlcy4gVGhlc2Ugb2ZmZXJzIGFyZSB2YWxpZCBmcm9t
+IHRoZSB0aW1lIHRoYXQgd2UgaW50cm9kdWNlIHRoZW0gdG8gdGhlIGVuZCBkYXRlIG9mIHRoZSBv
+ZmZlciBhbmQgdGhleSBjYW5ub3QgYmUgdXNlZCBmb3IgcHVyY2hhc2VzIGJlZm9yZSB0aGUgb2Zm
+ZXIgaW50cm9kdWN0aW9uIGRhdGUgb3IgYWZ0ZXIgdGhlIG9mZmVyIGVuZCBkYXRlLg0KSW4gdGhl
+IGV2ZW50IHRoYXQgYSBjdXN0b21lciBoYXMgbWFkZSBhIHB1cmNoYXNlIGFuZCB0aGUgcHJpY2Ug
+b2YgdGhlIHB1cmNoYXNlZCBwcm9kdWN0IHN1YnNlcXVlbnRseSBmYWxscyBvciBpcyBkaXNjb3Vu
+dGVkIG93aW5nIHRvIGEgc3BlY2lhbCBvZmZlciwgdGhlIHByaWNlIG9mIHRoZSBwcm9kdWN0IGF0
+IHRoZSB0aW1lIG9mIHB1cmNoYXNlIHNoYWxsIHByZXZhaWwuIFdlIGFyZSB1bmFibGUgdG8gb2Zm
+ZXIgc3BlY2lhbCBvZmZlciBkaXNjb3VudHMgZm9yIHB1cmNoYXNlcyB0aGF0IGhhdmUgYWxyZWFk
+eSBiZWVuIG1hZGUuDQpBcyBvdXIgc3BlY2lhbCBvZmZlcnMgYXJlIGNvbnRpbmdlbnQgb24gYXZh
+aWxhYmlsaXR5LCB3ZSBtYXkgY2hhbmdlIHRoZSB0ZXJtcyBvZiBzcGVjaWFsIG9mZmVycywgb3Ig
+d2l0aGRyYXcgdGhlbSBhbHRvZ2V0aGVyLCBhdCBhbnkgdGltZSwgYW5kIHdpdGhvdXQgcHJpb3Ig
+bm90aWNlLg0KV2UgYWxzbyByZXNlcnZlIHRoZSByaWdodCwgYXQgb3VyIGFic29sdXRlIGRpc2Ny
+ZXRpb24sIHRvIG9mZmVyIGRpZmZlcmVudCBwZXJzb25hbGlzZWQgc3BlY2lhbCBvZmZlcnMgYW5k
+IHByb21vdGlvbnMgYW5kIGl0IHdpbGwgdGhlcmVmb3JlIG9ubHkgYmUgcG9zc2libGUgZm9yIHRo
+ZSBjdXN0b21lciBpbiByZWNlaXB0IG9mIHRoZSBzcGVjaWFsIG9mZmVyIHRvIHJlZGVlbSB0aGUg
+ZGlzY291bnQuDQpVbmxlc3MgZXhwbGljaXRseSBvdGhlcndpc2Ugc3RhdGVkLCBmcmVlIG9yIGRp
+c2NvdW50ZWQgaW50cm9kdWN0b3J5IG9mZmVycyBhcmUgb25seSBhdmFpbGFibGUgdG8gbmV3IHVz
+ZXJzIG9mIHRoZSBLYXlsYSBGbG9yaXN0IHNlcnZpY2UsIGFuZCBhcmUgb25seSBhdmFpbGFibGUg
+b25jZSB0byBhbnkgb25lIHBlcnNvbi4NCkRpc2NvdW50cyBhbmQgY3JlZGl0cyBjYW5ub3QgYmUg
+dXNlZCBpbiBjb25qdW5jdGlvbiB3aXRoIGFueSBvdGhlciBvZmZlcnMuDQpVbmxlc3Mgb3RoZXJ3
+aXNlIHN0YXRlZCwgd2Ugb25seSBhbGxvdyBvbmUgcHJvbW90aW9uIGNvZGUgdG8gYmUgdXNlZCBw
+ZXIgb3JkZXIuDQpDaXJjdW1zdGFuY2VzIGJleW9uZCBvdXIgY29udHJvbA0KMyAxIDAgMCAwIDAN
+Cg0KNCAxIDAgMCAwIDANCkFkdmVyc2Ugd2VhdGhlciBjb25kaXRpb25zDQozIDMgMCAwIDAgMA0K
+DQpEdXJpbmcgYWR2ZXJzZSB3ZWF0aGVyIGNvbmRpdGlvbnMgKGluY2x1ZGluZyBoZWF2eSByYWlu
+IGFuZCBmbG9vZCksIG91ciBkZWxpdmVyeSBwYXJ0bmVycyBtYXkgbm90IGJlIGFibGUgdG8gZGVs
+aXZlciBvcmRlcnMgb24gdGltZS4gVGhpcyBpcyBvdXRzaWRlIG9mIG91ciBjb250cm9sIGFuZCB3
+ZSBjYW5ub3QgYWNjZXB0IHJlc3BvbnNpYmlsaXR5IGZvciB0aGUgbGF0ZSBkZWxpdmVyeSBvZiB0
+aGUgb3JkZXIuIFRoZXJlZm9yZSwgaW4gdGhlIGV2ZW50IG9mIGFkdmVyc2Ugd2VhdGhlciBjb25k
+aXRpb25zLCB3ZSBhcmVuJ3QgYWJsZSB0byByZWZ1bmQgb3Igb2ZmZXIgcmUtZGVsaXZlcnkgb2Yg
+YWZmZWN0ZWQgb3JkZXJzLg0KDQo0IDEgMCAwIDAgMA0KRm9yY2UgTWFqZXVyZQ0KMyAzIDAgMCAw
+IDANCg0KRmxvd2VyIENoaW1wIHNoYWxsIG5vdCBiZSBsaWFibGUgZm9yIGRlbGF5IGluIHBlcmZv
+cm1pbmcgb3IgZm9yIGZhaWx1cmUgdG8gcGVyZm9ybSBpdHMgb2JsaWdhdGlvbnMgaWYgdGhlIGRl
+bGF5IG9yIGZhaWx1cmUgcmVzdWx0cyBmcm9tIGFueSBvZiB0aGUgZm9sbG93aW5nOiAoaSkgQWN0
+cyBvZiBHb2QsIChpaSkgb3V0YnJlYWsgb2YgaG9zdGlsaXRpZXMsIHJpb3QsIGNpdmlsIGRpc3R1
+cmJhbmNlLCBhY3RzIG9mIHRlcnJvcmlzbSwgKGlpaSkgdGhlIGFjdCBvZiBhbnkgZ292ZXJubWVu
+dCBvciBhdXRob3JpdHkgKGluY2x1ZGluZyByZWZ1c2FsIG9yIHJldm9jYXRpb24gb2YgYW55IGxp
+Y2Vuc2Ugb3IgY29uc2VudCksIChpdikgZmlyZSwgZXhwbG9zaW9uLCBmbG9vZCwgZm9nIG9yIGFk
+dmVyc2Ugd2VhdGhlciwgKHYpIHBvd2VyIGZhaWx1cmUsIGZhaWx1cmUgb2YgdGVsZWNvbW11bmlj
+YXRpb25zIGxpbmVzLCBmYWlsdXJlIG9yIGJyZWFrZG93biBvZiBwbGFudCwgbWFjaGluZXJ5IG9y
+IHZlaGljbGVzLCAodmkpIGRlZmF1bHQgb2Ygc3VwcGxpZXJzLCBzdWItY29udHJhY3RvcnMgb3Ig
+ZGVsaXZlcnkgcGFydG5lcnMsICh2aWkpIHRoZWZ0LCBtYWxpY2lvdXMgZGFtYWdlLCBzdHJpa2Us
+IGxvY2stb3V0IG9yIGluZHVzdHJpYWwgYWN0aW9uIG9mIGFueSBraW5kLCBhbmQgKHZpaWkpIGFu
+eSBjYXVzZSBvciBjaXJjdW1zdGFuY2Ugd2hhdHNvZXZlciBiZXlvbmQgRmxvd2VyIENoaW1wknMg
+cmVhc29uYWJsZSBjb250cm9sLg0KDQo0IDEgMCAwIDAgMA0KQ3VzdG9tZXIgYW5kIHJlY2lwaWVu
+dCBwZXJzb25hbCBpbmZvcm1hdGlvbg0KMyAxIDAgMCAwIDANCg0KMyAzIDQgMCAwIDANClRvIGVu
+c3VyZSB0aGF0IHdlIGNhbiBjb21tdW5pY2F0ZSBlZmZlY3RpdmVseSB3aXRoIGJvdGggY3VzdG9t
+ZXJzIGFuZCByZWNpcGllbnRzLCBpdCBpcyB2ZXJ5IGltcG9ydGFudCB0aGF0IHlvdSBwcm92aWRl
+IGFjY3VyYXRlIHBlcnNvbmFsIGluZm9ybWF0aW9uLg0KUGxlYXNlIHJlbWVtYmVyIHRoYXQgd2Ug
+dmFsdWUgeW91ciBwcml2YWN5IGFuZCB3aWxsIG5ldmVyIGxlYXNlLCByZW50IG9yIHNlbGwgeW91
+ciBwcml2YXRlIGluZm9ybWF0aW9uLiBGb3IgbW9yZSBpbmZvcm1hdGlvbiwgcGxlYXNlIHNlZSBv
+dXIgcHJpdmFjeSBwb2xpY3kuDQpEdXJpbmcgdGhlIGNoZWNrb3V0IHByb2Nlc3MsIHdlIGFzayBm
+b3IgdGhlIGZvbGxvd2luZyBwZXJzb25hbCBpbmZvcm1hdGlvbjoNCjQgMSA0IDAgMCAwDQpDdXN0
+b21lcidzIGVtYWlsIGFkZHJlc3MNCjMgMyAwIDAgMCAwDQoNCldlIHVzZSB0aGlzIGluZm9ybWF0
+aW9uIHRvIHByb3ZpZGUgYSBiZXR0ZXIgY3VzdG9tZXIgZXhwZXJpZW5jZSBieSBzZW5kaW5nIG9y
+ZGVyIGNvbmZpcm1hdGlvbnMsIHN1YnN0aXR1dGlvbiBpbmZvcm1hdGlvbiwgZGlzcGF0Y2ggY29u
+ZmlybWF0aW9ucyBhbmQgZGVsaXZlcnkgY29uZmlybWF0aW9ucy4gV2Ugd2lsbCBhbHNvIHVzZSB0
+aGUgY3VzdG9tZXIncyBlbWFpbCBmb3IgbWFya2V0aW5nIGNvbW11bmljYXRpb25zIGZyb20gdGlt
+ZSB0byB0aW1lLiBQbGVhc2UgZW5zdXJlIHRoYXQgZW1haWwgYWRkcmVzc2VzIGFyZSBhY2N1cmF0
+ZS4NCg0KNCAxIDAgMCAwIDANCkN1c3RvbWVyJ3MgZnVsbCBuYW1lIGFuZCBhZGRyZXNzDQozIDMg
+MCAwIDAgMA0KDQpXZSB1c2UgdGhpcyBpbmZvcm1hdGlvbiBmb3IgY3JlZGl0IGFuZCBkZWJpdCBj
+YXJkIHZhbGlkYXRpb24uDQoNCjQgMSAwIDAgMCAwDQpDdXN0b21lcidzIHRlbGVwaG9uZSBudW1i
+ZXINCjMgMyAwIDAgMCAwDQoNCldlIHVzZSB0aGlzIGluZm9ybWF0aW9uIHRvIGNvbnRhY3QgY3Vz
+dG9tZXJzIGluIHRoZSBldmVudCBvZiBwcm9ibGVtcyB3aXRoIHRoZSBvcmRlciBzdWNoIGFzIHBh
+eW1lbnQgZmFpbHVyZXMgb3IgZGVsaXZlcnkgaXNzdWVzLg0KDQo0IDEgMCAwIDAgMA0KUmVjaXBp
+ZW50J3MgZnVsbCBuYW1lIGFuZCBhZGRyZXNzDQozIDIgMCAwIDAgMA0KDQpXZSByZXF1aXJlIHRo
+aXMgaW5mb3JtYXRpb24gaW4gb3JkZXIgdG8gZGVsaXZlciB0aGUgZmxvd2VycyB5b3UgaGF2ZSBv
+cmRlcmVkLiBJdCBpcyB2aXRhbCB0aGF0IHRoZSByZWNpcGllbnQncyBhZGRyZXNzIGlzIGFjY3Vy
+YXRlLg0K
+</rvf></Component><Component type="4" id="shape2" zorder="8" filename="shape122416015" width="1373" height="219" bgcolor="#000000" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapePRIQD.gif" left="0" top="2445" fillstyle="0" fp="1" global="" exportfilename="images/shape122416015.gif" lp="1"/><Component type="2" id="text3" zorder="9" filename="text122416031" width="162" height="28" html="" left="99" top="2458" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Informations&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkluZm9ybWF0
+aW9ucw0K
+</rvf></Component><Component type="13" id="rollimg1" zorder="10" filename="rollimg122416046" linkurl="" linktype="" linktitle="" src="C:\Users\PDS JAKARTA 2\Documents\About US White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\About US White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\About US Pink.png" mouseoversound="" alt="" width="100" height="29" left="97" top="2510" exportfilename="images/About US White.png" exportfilename2="images/About US Pink.png" exportsound="" fp="1" lp="1"/><Component type="13" id="rollimg2" zorder="11" filename="rollimg122416062" linkurl="page://p104286609" src="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ WHITE FOOTER.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\FAQ PINK FOOTER.png" mouseoversound="" alt="" width="42" height="29" left="97" top="2547" exportfilename="images/FAQ WHITE FOOTER.png" exportfilename2="images/FAQ PINK FOOTER.png" exportsound="" fp="1" lp="1"/><Component type="13" id="rollimg3" zorder="12" filename="rollimg122416078" linkurl="page://p113985593" src="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Terms White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Terms Pink.png" mouseoversound="" alt="" width="150" height="32" left="90" top="2586" exportfilename="images/Terms White.png" exportfilename2="images/Terms Pink.png" exportsound="" fp="1" lp="1"/><Component type="2" id="text4" zorder="13" filename="text122416093" width="162" height="28" html="" left="396" top="2456" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Customer Service&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkN1c3RvbWVy
+IFNlcnZpY2UNCg==
+</rvf></Component><Component type="13" id="rollimg4" zorder="14" filename="rollimg122416125" linkurl="page://p104278109" src="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Contact White Footer.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Contact Pink Footer.png" mouseoversound="" alt="" width="69" height="34" left="391" top="2502" exportfilename="images/Contact White Footer.png" exportfilename2="images/Contact Pink Footer.png" exportsound="" fp="1" lp="1"/><Component type="2" id="text5" zorder="15" filename="text122416140" width="162" height="28" html="" left="647" top="2455" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" style="font-size:16px;"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Poppins" class="ws12"&gt;&lt;B&gt;Contact US&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvbnRhY3Qg
+VVMNCg==
+</rvf></Component><Component type="13" id="rollimg5" zorder="16" filename="rollimg122416156" linkurl="http://wa.me/628990682073" src="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\PhoneNum Pink.png" mouseoversound="" alt="" width="181" height="32" left="641" top="2504" lp="1" exportfilename="images/PhoneNum White.png" exportfilename2="images/PhoneNum Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg6" zorder="17" filename="rollimg122416171" linkurl="mailto:sekarajengkay@gmail.com" src="C:\Users\PDS JAKARTA 2\Documents\Email White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Email White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Email Pink.png" mouseoversound="" alt="" width="216" height="29" left="643" top="2544" lp="1" exportfilename="images/Email White.png" exportfilename2="images/Email Pink.png" exportsound="" fp="1"/><Component type="13" id="rollimg7" zorder="18" filename="rollimg122416187" linkurl="https://instagram.com/sekaylla?igshid=NTc4MTIwNjQ2YQ==" src="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" previewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram White.png" preloadimg="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" preloadpreviewfile="C:\Users\PDS JAKARTA 2\Documents\Instagram Pink.png" mouseoversound="" alt="" width="182" height="32" left="633" top="2582" lp="1" exportfilename="images/Instagram White.png" exportfilename2="images/Instagram Pink.png" exportsound="" fp="1"/><Component type="4" id="shape3" zorder="19" filename="shape122416203" width="1374" height="26" bgcolor="#C0C0C0" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docJK8LH\shapeARO9G.gif" left="0" top="2661" fp="1" exportfilename="images/shape122416203.gif" lp="1"/><Component type="2" id="text6" zorder="20" filename="text122416218" width="237" height="18" html="" left="2" top="2666" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:11px;"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws8"&gt;&lt;B&gt;Copyright 2023 © Kayla Florist&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCCAVTdHlsZQsGZnNCb2xkAAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvcHlyaWdodCAyMDIzIKkgS2F5bGEg
+RmxvcmlzdA0K
+</rvf></Component></body></page></site>

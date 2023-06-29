@@ -1,0 +1,103 @@
+<site version="3.0"><css/><components/><page id="p94768187" pageindex="0" name="index" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="4" id="shape1" zorder="0" filename="shape96068421" width="1366" height="122" previewfile="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docM154I\shapeEDIKH.gif" left="0" top="0" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" bgcolor="#FFCC99" exportfilename="images/shape96068421.gif" fp="1" lp="1"/><Component type="2" id="text1" zorder="3" filename="text96886765" width="562" height="122" html="" left="293" top="98" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Poppins" style="font-size:96px;"&gt;&lt;B&gt;WELCOME!&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Poppins" class="ws72"&gt;&lt;B&gt;WELCOME!&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQb3BwaW5zBFNpemUCSAVTdHlsZQsGZnNCb2xkAAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCldFTENPTUUhDQo=
+</rvf></Component><Component type="3" id="image1" zorder="2" filename="image96798906" left="17" top="15" width="122" height="102" originwidth="1204" originheight="1004" src="WSB://images\OIHE4C1.png" previewfile="WSB://images\OIHE4C1.png" thumbname="thumb97410078" resamplename="img97410109" exportfilename="images/OIHE4C1.png" fp="1" lp="1"/><Component type="5" id="nav1" zorder="1" filename="nav95667593" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="16777215" navspace="5" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="144" navheight="27" normalimage="WSB://images\cc05in.gif" mouseoverimage="WSB://images\cc05over.gif" mouseoversound="" navtext0="Home" navurl0="" navtarget0="" navstate0="0" navtext1="About" navurl1="" navtarget1="" navstate1="0" navtext2="Shop" navurl2="" navtarget2="" navstate2="0" navtext3="Help" navurl3="" navtarget3="" navstate3="0" navcount="4" width="596" height="27" preview="C:\Users\PDSJAK~1\AppData\Local\Temp\Web Page Maker\docM154I\NavLJ9FI" left="705" top="56" exportfilename="images/nav95667593" exportsound="" fp="1" lp="1"/><Component type="14" id="formselect1" zorder="4" filename="form97296234" formtype="9" formname="Birthday" width="200" height="25" left="56" top="156" selected="1" options="Flowers=
+Cakes=
+Pacels=
+" fp="1" lp="1"/></body><ExtraCode><afterhtml>
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Toko Bunga&lt;/title&gt;
+    &lt;style&gt;
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #f9f9f9;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            color: #333;
+        }
+
+        .hero-image {
+            background-image: url('flower.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 400px;
+        }
+
+        .hero-text {
+            text-align: center;
+            padding: 100px;
+            color: #fff;
+        }
+
+        .hero-text h2 {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            margin-top: 20px;
+            font-size: 18px;
+            border-radius: 4px;
+        }
+
+        .cta-button:hover {
+            background-color: #45a049;
+        }
+
+        .footer {
+            background-color: #333;
+            padding: 20px;
+            color: #fff;
+            text-align: center;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;div class="header"&gt;
+        &lt;h1&gt;Toko Bunga&lt;/h1&gt;
+    &lt;/div&gt;
+
+    &lt;div class="hero-image"&gt;
+        &lt;div class="hero-text"&gt;
+            &lt;h2&gt;Selamat Datang di Toko Bunga Kami&lt;/h2&gt;
+            &lt;p&gt;Temukan berbagai jenis bunga indah untuk segala kesempatan.&lt;/p&gt;
+            &lt;a href="#" class="cta-button"&gt;Lihat koleksi&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="footer"&gt;
+        &amp;copy; 2023 Toko Bunga. All rights reserved.
+    &lt;/div&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;</afterhtml></ExtraCode></page></site>
